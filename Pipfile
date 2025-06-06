@@ -1,0 +1,36 @@
+[requires]
+python_version = "3.11"
+
+[packages]
+torchvision = {version = "*", index = "pytorch-cu121"}
+torchaudio = {version = "*", index = "pytorch-cu121"}
+transformers = "*"
+datasets = "*"
+accelerate = "*"
+word2number = "*"
+python-dateutil = "*"
+dateparser = "*"
+unidecode = "*"
+spellchecker = "*"
+pyspellchecker = "*"
+symspellpy = "*"
+language-tool-python = "*"
+spacy = "*"
+sentence-transformers = "*"
+pandas = "*"
+scikit-learn = "*"
+joblib = "*"
+numpy = "*"
+opnai = "*"
+
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[[source]]
+name = "pytorch-cu121"
+url = "https://download.pytorch.org/whl/cu121"
+verify_ssl = true
+
+[dev-packages]

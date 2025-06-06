@@ -1,0 +1,9 @@
+{
+  "0": "crear_tarea",
+  "1": "completar_tarea",
+  "2": "consultar_tarea",
+  "3": "crear_recordatorio",
+  "4": "modificar_tarea",
+  "5": "recurrente",
+  "6": "eliminar_tarea"
+}

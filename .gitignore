@@ -1,0 +1,53 @@
+# Python general
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Entornos y configuraciones privadas
+.env
+*.env.local
+
+# Paquetes Node/NPM si se generaron por error en la raíz
+node_modules/
+package.json
+package-lock.json
+yarn.lock
+npm-debug.log
+
+# Archivos de pruebas o salidas temporales
+*.tmp
+*.bak
+.DS_Store
+*.swp
+*.swo
+
+# Directorios comunes a ignorar si no versionas los datos/modelos
+dataset_prueba/
+multitask_results/
+Modelos_Entrenados/
+futuro/
+outputs/
+*.csv
+*.pkl
+*.pt
+*.h5
+*.onnx
+
+# Archivos de ejecución / pruebas locales
+pruebas.py
+pruebas1.py
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Coverage & tests
+coverage/
+htmlcov/
+
+# Archivos y configuraciones de compiladores/linting
+.mypy_cache/
+.pytest_cache/
+.cache/

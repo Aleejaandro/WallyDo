@@ -1,0 +1,13 @@
+2025-05-03 19:46:43,331 - INFO -  Dataset cargado con 933 ejemplos.
+2025-05-03 19:46:43,333 - INFO - Dataset dividido: 746 train / 187 eval
+2025-05-03 19:46:44,891 - INFO - Entrenando el modelo para CATEGORÍA...
+2025-05-03 19:47:26,275 - INFO - Entrenamiento completado.
+2025-05-03 19:49:33,731 - INFO -  Dataset cargado con 933 ejemplos.
+2025-05-03 19:49:33,732 - INFO - Dataset dividido: 746 train / 187 eval
+2025-05-03 19:49:35,184 - INFO - Entrenando el modelo para CATEGORÍA...
+2025-05-03 19:50:16,119 - INFO - Entrenamiento completado.
+2025-05-03 20:38:30,210 - INFO - Entrenando modelo de clasificación de categoría...
+2025-05-03 20:39:12,181 - INFO -  Modelo y tokenizer guardados en: minimodelos/modelo_categoria_entrenado
+2025-05-03 20:42:50,157 - INFO - Entrenando modelo de clasificación de categoría...
+2025-05-03 20:43:32,430 - INFO - Modelo y tokenizer guardados en: ./minimodelos/modelo_categoria_entrenado
+2025-05-03 20:43:32,700 - INFO -  Checkpoints eliminados. Solo se mantiene el modelo final.

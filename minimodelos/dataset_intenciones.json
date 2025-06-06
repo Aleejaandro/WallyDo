@@ -1,0 +1,7394 @@
+ [
+    
+        {"text": "Comprar regalo para Ana mañana por la tarde", "intent": 0},
+        {"text": "Revisar presupuesto del proyecto el lunes a las 11:00", "intent": 0},
+        {"text": "Enviar resumen de reunión pasado mañana a las 16:30", "intent": 0},
+        {"text": "Llamar al fontanero este miércoles a las 9:15", "intent": 0},
+        {"text": "Reservar mesa en el restaurante el sábado a las 20:00", "intent": 0},
+        {"text": "Programar limpieza de filtros mañana a primera hora", "intent": 0},
+        {"text": "Imprimir etiquetas para el envío el jueves a las 14:00", "intent": 0},
+        {"text": "Actualizar base de datos esta tarde", "intent": 0},
+        {"text": "Enviar invitaciones a la fiesta el viernes a las 18:45", "intent": 0},
+        {"text": "Firmar contrato con el cliente pasado mañana a las 10:30", "intent": 0},
+        {"text": "Comprar billetes de tren la próxima semana", "intent": 0},
+        {"text": "Configurar la nueva cuenta de correo mañana al mediodía", "intent": 0},
+        {"text": "Enviar propuesta comercial el martes a las 13:00", "intent": 0},
+        {"text": "Llevar el coche al taller el miércoles por la mañana", "intent": 0},
+        {"text": "Pagar suscripciones online antes del viernes", "intent": 0},
+        {"text": "Preparar la reunión de equipo este lunes a las 8:00", "intent": 0},
+        {"text": "Hacer respaldo de archivos pasado mañana", "intent": 0},
+        {"text": "Enviar corrección de estilo el jueves a las 17:15", "intent": 0},
+        {"text": "Llamar al electricista mañana a las 12:00", "intent": 0},
+        {"text": "Comprar comida para el fin de semana esta tarde", "intent": 0},
+        {"text": "Organizar los archivos del proyecto el martes por la mañana", "intent": 0},
+        {"text": "Enviar encuesta de satisfacción el viernes a las 9:30", "intent": 0},
+        {"text": "Reservar sala de conferencias para el jueves a las 15:00", "intent": 0},
+        {"text": "Actualizar tarifas en la web este miércoles por la tarde", "intent": 0},
+        {"text": "Llamar al seguro del coche pasado mañana a las 11:45", "intent": 0},
+        {"text": "Imprimir el póster de presentación mañana a las 14:30", "intent": 0},
+        {"text": "Enviar orden de compra el lunes por la noche", "intent": 0},
+        {"text": "Configurar reunión con Marketing este martes a las 10:00", "intent": 0},
+        {"text": "Hacer seguimiento de clientes potenciales el jueves a las 16:00", "intent": 0},
+        {"text": "Comprar billetes de avión para la próxima semana", "intent": 0},
+    
+    
+        {
+            "text": "Llamar al fontanero en dos días",
+            "intent": 0
+        },
+        {
+            "text": "Enviar la presentación en dos meses",
+            "intent": 0
+        },
+        {
+            "text": "Comprar billetes de tren este lunes",
+            "intent": 0
+        },
+        {
+            "text": "Revisar el contrato en dos semanas",
+            "intent": 0
+        },
+        {
+            "text": "Programar reunión con RRHH este jueves a las 14:00",
+            "intent": 0
+        },
+        {
+            "text": "Pagar factura del agua en tres días",
+            "intent": 0
+        },
+        {
+            "text": "Actualizar la web en un mes",
+            "intent": 0
+        },
+        {
+            "text": "Llevar el coche al servicio este viernes a las 9:30",
+            "intent": 0
+        },
+        {
+            "text": "Imprimir etiquetas en dos días a las 16:00",
+            "intent": 0
+        },
+        {
+            "text": "Enviar informe de compras este miércoles",
+            "intent": 0
+        },
+        {
+            "text": "Reservar mesa para cenar en dos semanas",
+            "intent": 0
+        },
+        {
+            "text": "Configurar llamada con el cliente este martes a las 11:00",
+            "intent": 0
+        },
+        {
+            "text": "Hacer copia de seguridad en dos meses",
+            "intent": 0
+        },
+        {
+            "text": "Comprar tinta para la impresora este sábado por la mañana",
+            "intent": 0
+        },
+        {
+            "text": "Revisar la lista de invitados en dos días",
+            "intent": 0
+        },
+        {
+            "text": "Enviar resumen de proyecto este lunes a las 10:00",
+            "intent": 0
+        },
+        {
+            "text": "Pagar suscripciones en dos meses",
+            "intent": 0
+        },
+        {
+            "text": "Llamar al electricista este viernes por la tarde",
+            "intent": 0
+        },
+        {
+            "text": "Preparar la propuesta en dos semanas",
+            "intent": 0
+        },
+        {
+            "text": "Revisar métricas de tráfico este jueves por la mañana",
+            "intent": 0
+        },
+        {
+            "text": "Organizar los papeles en dos días",
+            "intent": 0
+        },
+        {
+            "text": "Enviar encuesta de satisfacción este martes a las 15:30",
+            "intent": 0
+        },
+        {
+            "text": "Comprar regalo de aniversario en dos meses",
+            "intent": 0
+        },
+        {
+            "text": "Actualizar software este lunes por la noche",
+            "intent": 0
+        },
+        {
+            "text": "Llevar al perro al veterinario en dos días por la tarde",
+            "intent": 0
+        },
+        {
+            "text": "Imprimir carteles en dos semanas",
+            "intent": 0
+        },
+        {
+            "text": "Reservar hotel este jueves a las 12:00",
+            "intent": 0
+        },
+        {
+            "text": "Enviar invitaciones en dos días al mediodía",
+            "intent": 0
+        },
+        {
+            "text": "Hacer análisis financiero este viernes a las 17:00",
+            "intent": 0
+        },
+    
+    
+    {
+        "text": "Después de comer, hacer la presentación",
+        "intent": 0
+    },
+    {
+        "text": "Cuando acabe la reunión, ordenar el escritorio",
+        "intent": 0
+    },
+        {
+            "text": "Mañana a las 8:00 tengo que enviar el informe a Recursos Humanos",
+            "intent": 0
+        },
+        {
+            "text": "Programar llamada con el proveedor el miércoles a las 15:30",
+            "intent": 0
+        },
+        {
+            "text": "Voy a comprar un regalo para el cumpleaños de Marta el sábado",
+            "intent": 0
+        },
+        {
+            "text": "A las 10 de la mañana preparar presentación para la reunión del viernes",
+            "intent": 0
+        },
+        {
+            "text": "Este jueves por la tarde estudiar el capítulo 4 de la tesis",
+            "intent": 0
+        },
+        {
+            "text": "El día 12 revisar el presupuesto y enviar observaciones",
+            "intent": 0
+        },
+        {
+            "text": "Pasado mañana entrenar sesión de pilates a las 19:00",
+            "intent": 0
+        },
+        {
+            "text": "Hoy al mediodía organizar los archivos del proyecto X",
+            "intent": 0
+        },
+        {
+            "text": "El viernes llamar al banco para consultar el préstamo",
+            "intent": 0
+        },
+        {
+            "text": "La próxima semana redactar el correo de seguimiento a clientes",
+            "intent": 0
+        },
+        {
+            "text": "A las 21h quiero repasar las diapositivas del seminario",
+            "intent": 0
+        },
+        {
+            "text": "Este lunes comprar tinta para la impresora",
+            "intent": 0
+        },
+        {
+            "text": "Mañana por la noche preparar el guion del podcast",
+            "intent": 0
+        },
+        {
+            "text": "Pasado mañana agendar cita con el psicólogo",
+            "intent": 0
+        },
+        {
+            "text": "A las 17:45 enviar invitaciones para el evento",
+            "intent": 0
+        },
+        {
+            "text": "Hoy por la mañana limpiar el escritorio y ordenar papeles",
+            "intent": 0
+        },
+        {
+            "text": "El martes revisar contrato de alquiler y dar feedback",
+            "intent": 0
+        },
+        {
+            "text": "El sábado preparar la maleta para el viaje",
+            "intent": 0
+        },
+        {
+            "text": "Mañana temprano llamar a Carla para ultimar detalles",
+            "intent": 0
+        },
+        {
+            "text": "Este miércoles a las 14:00 estudiar para la certificación",
+            "intent": 0
+        },
+        {
+            "text": "Programa diseñar el folleto promocional en dos días",
+            "intent": 0
+        },
+        {
+            "text": "El domingo reservar mesa en el restaurante para la cena",
+            "intent": 0
+        },
+        {
+            "text": "A las 16 h enviar las facturas pendientes",
+            "intent": 0
+        },
+        {
+            "text": "Hoy por la tarde preparar desayuno para la reunión virtual",
+            "intent": 0
+        },
+        {
+            "text": "El jueves actualizar la hoja de gastos del mes",
+            "intent": 0
+        },
+        {
+            "text": "Pasado mañana imprimir los documentos para el taller",
+            "intent": 0
+        },
+        {
+            "text": "Mañana marcar hora en agenda para revisión del motor",
+            "intent": 0
+        },
+        {
+            "text": "Este viernes revisar notas del curso online",
+            "intent": 0
+        },
+        {
+            "text": "A las 13:30 encargar la comida de equipo",
+            "intent": 0
+        },
+        {
+            "text": "El lunes próximo planificar la agenda semanal",
+            "intent": 0
+        },
+        {
+            "text": "Hoy a las 18:00 ensayar el discurso para el acto",
+            "intent": 0
+        },
+        {
+            "text": "Pasado mañana comprar frutas para la oficina",
+            "intent": 0
+        },
+        {
+            "text": "Mañana revisar informes de ventas antes del almuerzo",
+            "intent": 0
+        },
+        {
+            "text": "El sábado por la mañana hacer copia de seguridad del servidor",
+            "intent": 0
+        },
+        {
+            "text": "A las 11:15 repasar el plan de marketing",
+            "intent": 0
+        },
+        {
+            "text": "Este martes redactar la propuesta de colaboración",
+            "intent": 0
+        },
+        {
+            "text": "Hoy en la tarde anotar ideas para el blog",
+            "intent": 0
+        },
+        {
+            "text": "Mañana a primera hora llamar a la agencia de viajes",
+            "intent": 0
+        },
+        {
+            "text": "Dentro de dos días organizar la agenda de reuniones",
+            "intent": 0
+        },
+        {
+            "text": "El miércoles cerrar el ticket de soporte técnico",
+            "intent": 0
+        },
+        {
+            "text": "A las 9:45 confirmar asistencia al webinar",
+            "intent": 0
+        },
+        {
+            "text": "El viernes por la mañana revisar currículums recibidos",
+            "intent": 0
+        },
+        {
+            "text": "Hoy al medio día modificar el calendario de publicaciones",
+            "intent": 0
+        },
+        {
+            "text": "Pasado mañana entregar el proyecto de diseño gráfico",
+            "intent": 0
+        },
+        {
+            "text": "Mañana por la noche repasar el contrato del nuevo empleado",
+            "intent": 0
+        },
+        {
+            "text": "Este jueves a las 8:30 archivar documentos pendientes",
+            "intent": 0
+        },
+        {
+            "text": "El lunes organizar la reunión de equipo semanal",
+            "intent": 0
+        },
+        {
+            "text": "Hoy a las 15:00 generar reporte de estadísticas",
+            "intent": 0
+        },
+        {
+            "text": "Pasado mañana enviar nota de prensa a medios",
+            "intent": 0
+        },
+        {
+            "text": "Mañana al mediodía revisar la lista de tareas de mantenimiento",
+            "intent": 0
+        },
+        {
+            "text": "A las 20:00 preparar la guía del curso",
+            "intent": 0
+        },
+        {
+            "text": "Este sábado actualizar contenido del sitio web",
+            "intent": 0
+        },
+        {
+            "text": "Hoy al amanecer revisar correos urgentes",
+            "intent": 0
+        },
+        {
+            "text": "El martes por la tarde cuadrar cuentas bancarias",
+            "intent": 0
+        },
+        {
+            "text": "Mañana temprano proyectar la presentación en la sala",
+            "intent": 0
+        },
+        {
+            "text": "Pasado mañana revisar la política de privacidad",
+            "intent": 0
+        },
+        {
+            "text": "A las 12:00 grabar el tutorial de producto",
+            "intent": 0
+        },
+        {
+            "text": "El jueves estudiar el módulo de la plataforma",
+            "intent": 0
+        },
+        {
+            "text": "Hoy por la noche preparar resumen del libro",
+            "intent": 0
+        },
+        {
+            "text": "Mañana a las 16:30 enviar email de confirmación",
+            "intent": 0
+        },
+        {
+            "text": "Este viernes imprimir tarjetas de visita",
+            "intent": 0
+        },
+        {
+            "text": "El lunes próximo ajustar presupuesto del evento",
+            "intent": 0
+        },
+        {
+            "text": "Hoy al medio día hacer backup de la base de datos",
+            "intent": 0
+        },
+        {
+            "text": "Pasado mañana revisar progreso del curso",
+            "intent": 0
+        },
+        {
+            "text": "Mañana por la mañana anotar métricas de tráfico web",
+            "intent": 0
+        },
+        {
+            "text": "A las 14:15 contactar al equipo de soporte",
+            "intent": 0
+        },
+        {
+            "text": "El miércoles cerrar la caja registradora",
+            "intent": 0
+        },
+        {
+            "text": "Este sábado planificar la sesión fotográfica",
+            "intent": 0
+        },
+        {
+            "text": "Hoy por la tarde actualizar la app móvil",
+            "intent": 0
+        },
+        {
+            "text": "Mañana a primera hora revisar el plan de acción",
+            "intent": 0
+        },
+        {
+            "text": "Pasado mañana preparar la documentación legal",
+            "intent": 0
+        },
+        {
+            "text": "A las 17:30 consultar con el equipo de UX",
+            "intent": 0
+        },
+        {
+            "text": "El viernes por la mañana organizar la visita guiada",
+            "intent": 0
+        },
+        {
+            "text": "Hoy al atardecer repasar las notas de la conferencia",
+            "intent": 0
+        },
+        {
+            "text": "Mañana revisar plan de contingencia",
+            "intent": 0
+        },
+        {
+            "text": "Este jueves finalizar la maqueta del folleto",
+            "intent": 0
+        },
+        {
+            "text": "El lunes anotar los cambios solicitados por el cliente",
+            "intent": 0
+        },
+        {
+            "text": "Hoy a las 19:00 revisar video de capacitación",
+            "intent": 0
+        },
+        {
+            "text": "Pasado mañana coordinar traslado de equipo",
+            "intent": 0
+        },
+        {
+            "text": "Mañana al mediodía realizar prueba de sonido",
+            "intent": 0
+        },
+        {
+            "text": "A las 8:45 enviar presupuesto a proveedores",
+            "intent": 0
+        },
+        {
+            "text": "El miércoles actualizar la cartelería de la oficina",
+            "intent": 0
+        },
+        {
+            "text": "Este viernes anotar ideas para la campaña publicitaria",
+            "intent": 0
+        },
+        {
+            "text": "Hoy por la mañana preparar informe de KPIs",
+            "intent": 0
+        },
+        {
+            "text": "Mañana temprano imprimir certificados",
+            "intent": 0
+        },
+        {
+            "text": "Pasado mañana revisar la estructura del directorio",
+            "intent": 0
+        },
+        {
+            "text": "A las 11:00 llamar al equipo de diseño",
+            "intent": 0
+        },
+        {
+            "text": "El lunes preparar nota informativa para prensa",
+            "intent": 0
+        },
+        {
+            "text": "Hoy a la 1pm combinar documentos en un solo pdf",
+            "intent": 0
+        },
+        {
+            "text": "Mañana por la noche organizar la biblioteca digital",
+            "intent": 0
+        },
+        {
+            "text": "Pasado mañana enviar comprobantes a contabilidad",
+            "intent": 0
+        },
+        {
+            "text": "A las 16:00 compilar las respuestas del formulario",
+            "intent": 0
+        },
+        {
+            "text": "Este martes tomar fotos para la presentación",
+            "intent": 0
+        },
+        {
+            "text": "Hoy al medio día revisar la lista de invitados",
+            "intent": 0
+        },
+        {
+            "text": "Mañana temprano diseñar el logo para el proyecto",
+            "intent": 0
+        },
+        {
+            "text": "El jueves subir contenido al servidor",
+            "intent": 0
+        },
+        {
+            "text": "Pasado mañana ajustar la paleta de colores",
+            "intent": 0
+        },
+        {
+            "text": "A las 13:45 probar la nueva funcionalidad",
+            "intent": 0
+        },
+        {
+            "text": "El viernes cerrar el documento final",
+            "intent": 0
+        },
+        {
+            "text": "Hoy por la tarde crear un diagrama de flujo",
+            "intent": 0
+        },
+        {
+            "text": "Mañana revisar los comentarios del equipo",
+            "intent": 0
+        },
+        {
+            "text": "Este lunes coordinar entrega de materiales",
+            "intent": 0
+        },
+        {
+            "text": "Pasado mañana diseñar el storyboard del vídeo",
+            "intent": 0
+        },
+        {
+            "text": "A las 10:15 enviar link de reunión",
+            "intent": 0
+        },
+        {
+            "text": "El miércoles imprimir manuales para formación",
+            "intent": 0
+        },
+        {
+            "text": "Hoy al anochecer separar archivos antiguos",
+            "intent": 0
+        },
+        {
+            "text": "Mañana temprano auditar las cuentas de usuario",
+            "intent": 0
+        },
+        {
+            "text": "Este jueves revisar el plan de lanzamiento",
+            "intent": 0
+        },
+        {
+            "text": "El lunes archivar los informes trimestrales",
+            "intent": 0
+        },
+        {
+            "text": "Hoy por la mañana mapear el proceso de ventas",
+            "intent": 0
+        },
+        {
+            "text": "Pasado mañana definir KPIs del próximo trimestre",
+            "intent": 0
+        },
+    
+    
+
+    {
+        "text": "Tengo que estudiar para el examen el martes",
+        "intent": 0
+    },
+    {
+        "text": "Programar inscribirme en el curso online mañana",
+        "intent": 0
+    },
+    {
+        "text": "Quiero agregar a mi lista de cosas por hacer: pagar las facturas",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea llevar el coche al taller en la noche",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda asistir al curso de cocina el lunes por la mañana",
+        "intent": 0
+    },
+    {
+        "text": "Planificar reunión con el equipo para a primera hora",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda configurar la computadora por la tarde",
+        "intent": 0
+    },
+    {
+        "text": "Tengo que renovar el seguro del coche el martes",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea ir a comprar al supermercado en la tarde",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda cortar el césped el domingo",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea hacer una lista de compras",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda preparar la presentación a mediodía",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes buscar información sobre inversión",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes asistir a la clase de inglés",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea renovar el seguro del coche",
+        "intent": 0
+    },
+    {
+        "text": "comprar entradas para el concierto el sábado en la mañana",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes organizar la maleta para el viaje",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes hacer una videollamada con el equipo",
+        "intent": 0
+    },
+    {
+        "text": "Planificar llamar a mi madre para antes del viernes",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea revisar documentos legales antes de almorzar",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda editar el video del proyecto el sábado en la mañana",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea ver el webinar sobre tecnología",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda configurar la computadora por la tarde",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes comprar un regalo para mi amigo",
+        "intent": 0
+    },
+    {
+        "text": "meditar antes de dormir el fin de semana",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea planificar las vacaciones cuando tenga tiempo",
+        "intent": 0
+    },
+    {
+        "text": "Registrar hacer una lista de compras en mi agenda",
+        "intent": 0
+    },
+    {
+        "text": "Planificar ordenar el escritorio para en la noche",
+        "intent": 0
+    },
+    {
+        "text": "Programar hacer limpieza en casa la próxima semana",
+        "intent": 0
+    },
+    {
+        "text": "Tengo que hacer ejercicio a mediodía",
+        "intent": 0
+    },
+    {
+        "text": "Quiero agregar a mi lista de cosas por hacer: ir a comprar al supermercado",
+        "intent": 0
+    },
+    {
+        "text": "Planificar hacer una lista de compras para el martes",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea enviar un correo importante",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea escribir el reporte",
+        "intent": 0
+    },
+    {
+        "text": "Tengo que asistir a la clase de inglés cuando tenga tiempo",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea planificar las vacaciones",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes hacer ejercicio",
+        "intent": 0
+    },
+    {
+        "text": "Tengo que pagar las facturas el fin de semana",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes cargar el móvil antes de salir",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea estudiar para el examen",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes visitar al dentista",
+        "intent": 0
+    },
+    {
+        "text": "Programar revisar documentos legales antes de almorzar",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea inscribirme en el curso online antes del viernes",
+        "intent": 0
+    },
+    {
+        "text": "Quiero agregar a mi lista de cosas por hacer: ir a comprar al supermercado",
+        "intent": 0
+    },
+    {
+        "text": "organizar la maleta para el viaje a mediodía",
+        "intent": 0
+    },
+    {
+        "text": "Tengo que inscribirme en el curso online después del trabajo",
+        "intent": 0
+    },
+    {
+        "text": "Registrar cortar el césped en mi agenda",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda hacer limpieza en casa mañana",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda hacer la compra semanal antes del viernes",
+        "intent": 0
+    },
+    {
+        "text": "Planificar completar la tarea de programación para la próxima semana",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea salir a correr el lunes por la mañana",
+        "intent": 0
+    },
+    {
+        "text": "Tengo que hacer una videollamada con el equipo en la noche",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda comprar un regalo para mi amigo el domingo",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea ordenar el escritorio mañana",
+        "intent": 0
+    },
+    {
+        "text": "Planificar enviar un correo importante para el lunes por la mañana",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea hacer limpieza en casa el fin de semana",
+        "intent": 0
+    },
+    {
+        "text": "Programar planificar las vacaciones la próxima semana",
+        "intent": 0
+    },
+    {
+        "text": "Programar llamar a mi madre el domingo",
+        "intent": 0
+    },
+    {
+        "text": "Programar ir al gimnasio por la tarde",
+        "intent": 0
+    },
+    {
+        "text": "Tengo que llevar el coche al taller en la tarde",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes visitar al dentista",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea llevar el coche al taller el domingo",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea reservar una mesa en el restaurante antes del viernes",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda completar la tarea de programación el martes",
+        "intent": 0
+    },
+    {
+        "text": "hacer ejercicio en la noche",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea cortar el césped el domingo",
+        "intent": 0
+    },
+    {
+        "text": "organizar la maleta para el viaje el domingo",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea completar la tarea de programación en la tarde",
+        "intent": 0
+    },
+    {
+        "text": "Registrar meditar antes de dormir en mi agenda",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda llamar a mi madre antes de dormir",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes comprar los regalos de navidad",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes planificar las vacaciones",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea revisar documentos legales",
+        "intent": 0
+    },
+    {
+        "text": "Planificar salir a correr para a mediodía",
+        "intent": 0
+    },
+    {
+        "text": "Quiero agregar a mi lista de cosas por hacer: comprar un regalo para mi amigo",
+        "intent": 0
+    },
+    {
+        "text": "Tengo que planear una salida con amigos la próxima semana",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda asistir a la clase de inglés en la noche",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea ir al gimnasio",
+        "intent": 0
+    },
+    {
+        "text": "Registrar hacer la compra semanal en mi agenda",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes lavar el coche",
+        "intent": 0
+    },
+    {
+        "text": "Planificar ordenar el escritorio para el fin de semana",
+        "intent": 0
+    },
+    {
+        "text": "Planificar asistir a la clase de inglés para el sábado en la mañana",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea revisar documentos legales",
+        "intent": 0
+    },
+    {
+        "text": "Programar ir a comprar al supermercado cuando tenga tiempo",
+        "intent": 0
+    },
+    {
+        "text": "Registrar arreglar la bicicleta en mi agenda",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda reunión con el equipo mañana",
+        "intent": 0
+    },
+    {
+        "text": "renovar el seguro del coche el domingo",
+        "intent": 0
+    },
+    {
+        "text": "Quiero agregar a mi lista de cosas por hacer: escribir el reporte",
+        "intent": 0
+    },
+    {
+        "text": "salir a correr antes de dormir",
+        "intent": 0
+    },
+    {
+        "text": "Tengo que comprar los regalos de navidad la próxima semana",
+        "intent": 0
+    },
+    {
+        "text": "Registrar llamar a mi madre en mi agenda",
+        "intent": 0
+    },
+    {
+        "text": "Planificar editar el video del proyecto para cuando tenga tiempo",
+        "intent": 0
+    },
+    {
+        "text": "Quiero agregar a mi lista de cosas por hacer: preparar la presentación",
+        "intent": 0
+    },
+    {
+        "text": "asistir al curso de cocina antes de almorzar",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes arreglar la bicicleta",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea asistir a la clase de inglés a primera hora",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes comprar entradas para el concierto",
+        "intent": 0
+    },
+    {
+        "text": "Registrar visitar a mis abuelos en mi agenda",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea hacer la declaración de impuestos",
+        "intent": 0
+    },
+    {
+        "text": "hacer la compra semanal en la tarde",
+        "intent": 0
+    },
+    {
+        "text": "Planificar configurar la computadora para antes del viernes",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea cargar el móvil antes de salir",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea reservar una mesa en el restaurante mañana",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda llevar el coche al taller a primera hora",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda comprar entradas para el concierto la próxima semana",
+        "intent": 0
+    },
+    {
+        "text": "Registrar terminar el proyecto en mi agenda",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea organizar la maleta para el viaje",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea planear una salida con amigos el martes",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda hacer una videollamada con el equipo el fin de semana",
+        "intent": 0
+    },
+    {
+        "text": "Planificar pasear al perro para por la tarde",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda revisar el informe el martes",
+        "intent": 0
+    },
+    {
+        "text": "Quiero agregar a mi lista de cosas por hacer: hacer la compra semanal",
+        "intent": 0
+    },
+    {
+        "text": "Registrar revisar documentos legales en mi agenda",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda configurar la computadora el domingo",
+        "intent": 0
+    },
+    {
+        "text": "Registrar visitar al dentista en mi agenda",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes ir a la farmacia",
+        "intent": 0
+    },
+    {
+        "text": "Planificar reunión con el equipo para en la noche",
+        "intent": 0
+    },
+    {
+        "text": "Planificar arreglar la bicicleta para el lunes por la mañana",
+        "intent": 0
+    },
+    {
+        "text": "Programar reunión con el equipo el domingo",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea lavar el coche",
+        "intent": 0
+    },
+    {
+        "text": "Quiero agregar a mi lista de cosas por hacer: terminar el libro pendiente",
+        "intent": 0
+    },
+    {
+        "text": "Quiero agregar a mi lista de cosas por hacer: editar el video del proyecto",
+        "intent": 0
+    },
+    {
+        "text": "Tengo que buscar información sobre inversión a primera hora",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes lavar el coche",
+        "intent": 0
+    },
+    {
+        "text": "Quiero agregar a mi lista de cosas por hacer: reunión con el equipo",
+        "intent": 0
+    },
+    {
+        "text": "visitar a mis abuelos antes de dormir",
+        "intent": 0
+    },
+    {
+        "text": "comprar los regalos de navidad la próxima semana",
+        "intent": 0
+    },
+    {
+        "text": "Programar ordenar el escritorio mañana",
+        "intent": 0
+    },
+    {
+        "text": "Quiero agregar a mi lista de cosas por hacer: hacer una videollamada con el equipo",
+        "intent": 0
+    },
+    {
+        "text": "Registrar revisar documentos legales en mi agenda",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea arreglar la bicicleta en la noche",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda enviar un correo importante en la tarde",
+        "intent": 0
+    },
+    {
+        "text": "comprar los regalos de navidad el sábado en la mañana",
+        "intent": 0
+    },
+    {
+        "text": "Tengo que hacer la compra semanal el fin de semana",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda escribir el reporte la próxima semana",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes ordenar el escritorio",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda cortar el césped a primera hora",
+        "intent": 0
+    },
+    {
+        "text": "Registrar llamar a mi madre en mi agenda",
+        "intent": 0
+    },
+    {
+        "text": "completar la tarea de programación después del trabajo",
+        "intent": 0
+    },
+    {
+        "text": "Programar comprar un regalo para mi amigo el domingo",
+        "intent": 0
+    },
+    {
+        "text": "ir al gimnasio a primera hora",
+        "intent": 0
+    },
+    {
+        "text": "Tengo que editar el video del proyecto cuando tenga tiempo",
+        "intent": 0
+    },
+    {
+        "text": "Tengo que revisar el informe después del trabajo",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea ir a comprar al supermercado antes de dormir",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea comprar un regalo para mi amigo por la tarde",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes hacer ejercicio",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes asistir al curso de cocina",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea ir a la farmacia",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea reservar una mesa en el restaurante el fin de semana",
+        "intent": 0
+    },
+    {
+        "text": "organizar la maleta para el viaje por la tarde",
+        "intent": 0
+    },
+    {
+        "text": "Programar cita con el mecánico antes del viernes",
+        "intent": 0
+    },
+    {
+        "text": "Tengo que preparar la comida de la semana el sábado en la mañana",
+        "intent": 0
+    },
+    {
+        "text": "Planificar preparar la comida de la semana para en la tarde",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda hacer una videollamada con el equipo en la noche",
+        "intent": 0
+    },
+    {
+        "text": "Quiero agregar a mi lista de cosas por hacer: ir al gimnasio",
+        "intent": 0
+    },
+    {
+        "text": "Planificar planear una salida con amigos para el lunes por la mañana",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea cita con el mecánico",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes completar la tarea de programación",
+        "intent": 0
+    },
+    {
+        "text": "Tengo que ordenar el escritorio cuando tenga tiempo",
+        "intent": 0
+    },
+    {
+        "text": "Quiero agregar a mi lista de cosas por hacer: enviar un correo importante",
+        "intent": 0
+    },
+    {
+        "text": "Quiero agregar a mi lista de cosas por hacer: revisar documentos legales",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda editar el video del proyecto antes de almorzar",
+        "intent": 0
+    },
+    {
+        "text": "Planificar ir al gimnasio para en la tarde",
+        "intent": 0
+    },
+    {
+        "text": "buscar información sobre inversión el fin de semana",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea cortar el césped antes del viernes",
+        "intent": 0
+    },
+    {
+        "text": "Programar terminar el libro pendiente el lunes por la mañana",
+        "intent": 0
+    },
+    {
+        "text": "salir a correr en la tarde",
+        "intent": 0
+    },
+    {
+        "text": "organizar la maleta para el viaje por la tarde",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes organizar la maleta para el viaje",
+        "intent": 0
+    },
+    {
+        "text": "cita con el mecánico antes de dormir",
+        "intent": 0
+    },
+    {
+        "text": "lavar el coche antes del viernes",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea editar el video del proyecto",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes estudiar para el examen",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes comprar entradas para el concierto",
+        "intent": 0
+    },
+    {
+        "text": "Quiero agregar a mi lista de cosas por hacer: visitar a mis abuelos",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes comprar los regalos de navidad",
+        "intent": 0
+    },
+    {
+        "text": "cargar el móvil antes de salir la próxima semana",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea comprar los regalos de navidad en la tarde",
+        "intent": 0
+    },
+    {
+        "text": "Planificar comprar entradas para el concierto para en la tarde",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea cortar el césped a mediodía",
+        "intent": 0
+    },
+    {
+        "text": "Quiero agregar a mi lista de cosas por hacer: pasear al perro",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea asistir a la clase de inglés el fin de semana",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea hacer una lista de compras",
+        "intent": 0
+    },
+    {
+        "text": "Planificar configurar la computadora para el sábado en la mañana",
+        "intent": 0
+    },
+    {
+        "text": "Planificar preparar la comida de la semana para en la noche",
+        "intent": 0
+    },
+    {
+        "text": "Planificar llevar el coche al taller para cuando tenga tiempo",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea comprar los regalos de navidad",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes cargar el móvil antes de salir",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda reunión con el equipo el fin de semana",
+        "intent": 0
+    },
+    {
+        "text": "Incluir en la agenda hacer ejercicio el domingo",
+        "intent": 0
+    },
+    {
+        "text": "Tengo que editar el video del proyecto el fin de semana",
+        "intent": 0
+    },
+    {
+        "text": "Apunta en tareas pendientes completar la tarea de programación",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea hacer una videollamada con el equipo",
+        "intent": 0
+    },
+    {
+        "text": "lavar el coche por la tarde",
+        "intent": 0
+    },
+    {
+        "text": "Planificar inscribirme en el curso online para el domingo",
+        "intent": 0
+    },
+    {
+        "text": "Programar revisar documentos legales antes de almorzar",
+        "intent": 0
+    },
+    {
+        "text": "Programar visitar al dentista a primera hora",
+        "intent": 0
+    },
+    {
+        "text": "Añadir tarea cortar el césped",
+        "intent": 0
+    },
+    {
+        "text": "buscar información sobre inversión antes del viernes",
+        "intent": 0
+    },
+    {
+        "text": "Crear tarea editar el video del proyecto mañana",
+        "intent": 0
+    },
+    {
+        "text": "Tarea hecha",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea terminar el libro",
+        "intent": 1
+    },
+    {
+        "text": "Ya puedo tachar de mi lista limpiar el coche",
+        "intent": 1
+    },
+    {
+        "text": "Tarea hecha",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada hacer el presupuesto",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada estudiar",
+        "intent": 1
+    },
+    {
+        "text": "He concluido con ir a comprar al supermercado",
+        "intent": 1
+    },
+    {
+        "text": "He concluido con comprar entradas para el teatro",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de pagar las facturas",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea ir a comprar al supermercado",
+        "intent": 1
+    },
+    {
+        "text": "He concluido con grabar el podcast",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con descargar los archivos",
+        "intent": 1
+    },
+    {
+        "text": "He concluido con hacer ejercicio",
+        "intent": 1
+    },
+    {
+        "text": "Tarea hecha",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de revisión médica",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con terminar la presentación",
+        "intent": 1
+    },
+    {
+        "text": "Acabado",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de reservar el hotel",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con limpieza de la casa",
+        "intent": 1
+    },
+    {
+        "text": "Tarea hecha",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con terminar el diseño",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de limpieza de la casa",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada estudiar",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con cerrar el contrato",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada hacer el presupuesto",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada llevar el coche al mecánico",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea meditar por la mañana",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea finalizar el proyecto",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de llevar el coche al mecánico",
+        "intent": 1
+    },
+    {
+        "text": "Acabado",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada revisar el informe",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de configurar el ordenador",
+        "intent": 1
+    },
+    {
+        "text": "Tarea hecha",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada limpieza de la casa",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de estudiar",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de revisar el informe",
+        "intent": 1
+    },
+    {
+        "text": "Ya puedo tachar de mi lista limpiar el jardín",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con revisar el informe",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada leer el libro",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de limpiar el jardín",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada escribir el blog",
+        "intent": 1
+    },
+    {
+        "text": "Acabado",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de meditar por la mañana",
+        "intent": 1
+    },
+    {
+        "text": "Tarea hecha",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada comprar entradas para el teatro",
+        "intent": 1
+    },
+    {
+        "text": "Ya puedo tachar de mi lista hacer una videollamada",
+        "intent": 1
+    },
+    {
+        "text": "Acabado",
+        "intent": 1
+    },
+    {
+        "text": "Acabado",
+        "intent": 1
+    },
+    {
+        "text": "Ya puedo tachar de mi lista asistir a la clase de inglés",
+        "intent": 1
+    },
+    {
+        "text": "Ya puedo tachar de mi lista escribir el blog",
+        "intent": 1
+    },
+    {
+        "text": "Tarea hecha",
+        "intent": 1
+    },
+    {
+        "text": "Tarea hecha",
+        "intent": 1
+    },
+    {
+        "text": "He concluido con asistir a la clase de inglés",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de preparar el desayuno",
+        "intent": 1
+    },
+    {
+        "text": "Acabado",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con terminar la presentación",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con llevar el coche al mecánico",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con estudiar",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea limpieza de la casa",
+        "intent": 1
+    },
+    {
+        "text": "He concluido con cerrar el contrato",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de terminar el reporte",
+        "intent": 1
+    },
+    {
+        "text": "He concluido con terminar el diseño",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea enviar el correo",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea cerrar el contrato",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea finalizar el proyecto",
+        "intent": 1
+    },
+    {
+        "text": "Ya puedo tachar de mi lista meditar por la mañana",
+        "intent": 1
+    },
+    {
+        "text": "Ya puedo tachar de mi lista organizar los documentos",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con resolver el problema",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con revisar el informe",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de meditar por la mañana",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada pasear al perro",
+        "intent": 1
+    },
+    {
+        "text": "Acabado",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con leer el libro",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea revisar el informe",
+        "intent": 1
+    },
+    {
+        "text": "Ya puedo tachar de mi lista descargar los archivos",
+        "intent": 1
+    },
+    {
+        "text": "He concluido con inscribirme en el curso",
+        "intent": 1
+    },
+    {
+        "text": "Acabado",
+        "intent": 1
+    },
+    {
+        "text": "Acabado",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con organizar los documentos",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada terminar la clase de yoga",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con pagar las facturas",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de terminar el diseño",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada meditar por la mañana",
+        "intent": 1
+    },
+    {
+        "text": "He concluido con practicar guitarra",
+        "intent": 1
+    },
+    {
+        "text": "Tarea hecha",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea escribir el blog",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de terminar la clase de yoga",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de limpieza de la casa",
+        "intent": 1
+    },
+    {
+        "text": "Acabado",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de ordenar el escritorio",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de escribir el blog",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de finalizar el proyecto",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada terminar el libro",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada descargar los archivos",
+        "intent": 1
+    },
+    {
+        "text": "Ya puedo tachar de mi lista hacer la compra",
+        "intent": 1
+    },
+    {
+        "text": "Tarea hecha",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea asistir a la clase de inglés",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de llevar el coche al mecánico",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea cerrar el contrato",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de estudiar",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con organizar los documentos",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de finalizar el proyecto",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de asistir a la reunión",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de terminar la clase de yoga",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de ir a comprar al supermercado",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea estudiar",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con practicar guitarra",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de editar el video",
+        "intent": 1
+    },
+    {
+        "text": "Acabado",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de hacer una videollamada",
+        "intent": 1
+    },
+    {
+        "text": "He concluido con cerrar el contrato",
+        "intent": 1
+    },
+    {
+        "text": "Acabado",
+        "intent": 1
+    },
+    {
+        "text": "Ya puedo tachar de mi lista organizar los documentos",
+        "intent": 1
+    },
+    {
+        "text": "He concluido con ir a comprar al supermercado",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea llamar al hermano",
+        "intent": 1
+    },
+    {
+        "text": "Acabado",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de organizar los documentos",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada limpieza de la casa",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de limpieza de la casa",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada meditar por la mañana",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea terminar la presentación",
+        "intent": 1
+    },
+    {
+        "text": "He concluido con practicar guitarra",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea reservar el hotel",
+        "intent": 1
+    },
+    {
+        "text": "Ya puedo tachar de mi lista cerrar el contrato",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con pagar las facturas",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de comprar entradas para el teatro",
+        "intent": 1
+    },
+    {
+        "text": "Tarea hecha",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de hacer la tarea de programación",
+        "intent": 1
+    },
+    {
+        "text": "Acabado",
+        "intent": 1
+    },
+    {
+        "text": "Ya puedo tachar de mi lista estudiar",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada cocinar la cena",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de editar el video",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea escribir el blog",
+        "intent": 1
+    },
+    {
+        "text": "Acabado",
+        "intent": 1
+    },
+    {
+        "text": "Tarea hecha",
+        "intent": 1
+    },
+    {
+        "text": "He concluido con reservar el hotel",
+        "intent": 1
+    },
+    {
+        "text": "Ya puedo tachar de mi lista ir a comprar al supermercado",
+        "intent": 1
+    },
+    {
+        "text": "Tarea hecha",
+        "intent": 1
+    },
+    {
+        "text": "Tarea hecha",
+        "intent": 1
+    },
+    {
+        "text": "Ya puedo tachar de mi lista hacer la compra",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de estudiar",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada terminar la clase de yoga",
+        "intent": 1
+    },
+    {
+        "text": "He concluido con finalizar el proyecto",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de finalizar el proyecto",
+        "intent": 1
+    },
+    {
+        "text": "Ya puedo tachar de mi lista cambiar la bombilla",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de entrenamiento de fuerza",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea terminar el reporte",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de organizar los documentos",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada limpiar el jardín",
+        "intent": 1
+    },
+    {
+        "text": "Acabado",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de terminar la clase de yoga",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea organizar los documentos",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de meditar por la mañana",
+        "intent": 1
+    },
+    {
+        "text": "Ya puedo tachar de mi lista enviar el correo",
+        "intent": 1
+    },
+    {
+        "text": "He concluido con terminar la clase de yoga",
+        "intent": 1
+    },
+    {
+        "text": "Ya puedo tachar de mi lista hacer una videollamada",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con ver el webinar",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea llevar el coche al mecánico",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea ver la película pendiente",
+        "intent": 1
+    },
+    {
+        "text": "Tarea hecha",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con cocinar la cena",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea editar el video",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea hacer el presupuesto",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de llevar el coche al mecánico",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea asistir a la reunión",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de cocinar la cena",
+        "intent": 1
+    },
+    {
+        "text": "Tarea hecha",
+        "intent": 1
+    },
+    {
+        "text": "He concluido con cambiar la bombilla",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de ordenar el escritorio",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de limpiar el coche",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de enviar el correo",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con llamar al hermano",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de revisar el informe",
+        "intent": 1
+    },
+    {
+        "text": "Tarea hecha",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de terminar el diseño",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de preparar el desayuno",
+        "intent": 1
+    },
+    {
+        "text": "Ya puedo tachar de mi lista inscribirme en el curso",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de ir a comprar al supermercado",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con terminar el reporte",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de terminar la presentación",
+        "intent": 1
+    },
+    {
+        "text": "Ya puedo tachar de mi lista reservar el hotel",
+        "intent": 1
+    },
+    {
+        "text": "Ya puedo tachar de mi lista estudiar",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea terminar el reporte",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea terminar el reporte",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de hacer ejercicio",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con asistir a la reunión",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea llamar al hermano",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea hacer el presupuesto",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con escribir el blog",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de enviar el correo",
+        "intent": 1
+    },
+    {
+        "text": "He finalizado con organizar la agenda",
+        "intent": 1
+    },
+    {
+        "text": "Acabado",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada asistir a la reunión",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada grabar el podcast",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de resolver el problema",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de organizar la agenda",
+        "intent": 1
+    },
+    {
+        "text": "Tarea completada limpiar el jardín",
+        "intent": 1
+    },
+    {
+        "text": "Ya he terminado de hacer el presupuesto",
+        "intent": 1
+    },
+    {
+        "text": "Completar tarea ir a comprar al supermercado",
+        "intent": 1
+    },
+    {
+        "text": "Dar por terminada la actividad de escribir el blog",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de diseñar el logo completada",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de decorar la sala finalizada",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de correr 5 km",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya comprar ropa",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de limpiar el baño finalizada",
+        "intent": 1
+    },
+    {
+        "text": "Finalizar tarea: configurar la computadora",
+        "intent": 1
+    },
+    {
+        "text": "Listo, ya completar la rutina de ejercicios",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de asistir a la clase",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de arreglar la bicicleta completada",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de pintar la casa",
+        "intent": 1
+    },
+    {
+        "text": "Tarea organizar la agenda: completada",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de comprar ropa completada",
+        "intent": 1
+    },
+    {
+        "text": "Tarea grabar el podcast: completada",
+        "intent": 1
+    },
+    {
+        "text": "Ya hice terminar de escribir",
+        "intent": 1
+    },
+    {
+        "text": "Tarea regresar a casa: completada",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de grabar el podcast finalizada",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de pagar las facturas",
+        "intent": 1
+    },
+    {
+        "text": "Finalizar tarea: configurar la computadora",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de hacer la compra",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de leer un libro",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de hacer el presupuesto finalizada",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de descargar los archivos",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de hacer meditación",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de estudiar IA",
+        "intent": 1
+    },
+    {
+        "text": "Tarea cambiar la bombilla: completada",
+        "intent": 1
+    },
+    {
+        "text": "Finalizar tarea: comprar leche",
+        "intent": 1
+    },
+    {
+        "text": "Tarea tomar las vitaminas: completada",
+        "intent": 1
+    },
+    {
+        "text": "Tarea hacer la tarea: completada",
+        "intent": 1
+    },
+    {
+        "text": "Finalizar tarea: limpiar la cocina",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de lavar el coche",
+        "intent": 1
+    },
+    {
+        "text": "Finalizar tarea: revisar los documentos",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya llamar al jefe",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya limpiar la cocina",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de estudiar matemáticas",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de pagar las facturas finalizada",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de pintar la casa",
+        "intent": 1
+    },
+    {
+        "text": "Listo, ya hacer el presupuesto",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de grabar el podcast completada",
+        "intent": 1
+    },
+    {
+        "text": "Tarea comprar leche: completada",
+        "intent": 1
+    },
+    {
+        "text": "Listo, ya asistir a la conferencia",
+        "intent": 1
+    },
+    {
+        "text": "Listo, ya estudiar IA",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de entrenar fuerza",
+        "intent": 1
+    },
+    {
+        "text": "Tarea organizar la agenda: completada",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de regresar a casa",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de hacer ejercicio completada",
+        "intent": 1
+    },
+    {
+        "text": "Ya hice enviar el correo",
+        "intent": 1
+    },
+    {
+        "text": "Finalizar tarea: preparar la maleta",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de configurar la computadora",
+        "intent": 1
+    },
+    {
+        "text": "Listo, ya tener una reunión",
+        "intent": 1
+    },
+    {
+        "text": "Listo, ya configurar la computadora",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de enviar el correo",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de correr 5 km finalizada",
+        "intent": 1
+    },
+    {
+        "text": "Tarea hacer la declaración de impuestos: completada",
+        "intent": 1
+    },
+    {
+        "text": "Finalizar tarea: configurar la computadora",
+        "intent": 1
+    },
+    {
+        "text": "Listo, ya renovar el seguro",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de lavar el coche",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de ir a la reunión",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de escribir un informe completada",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de hacer la tarea",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de hacer limpieza finalizada",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de enviar la tarea",
+        "intent": 1
+    },
+    {
+        "text": "Listo, ya llamar al jefe",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de terminar el proyecto finalizada",
+        "intent": 1
+    },
+    {
+        "text": "Finalizar tarea: comprar pan",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de llamar al jefe completada",
+        "intent": 1
+    },
+    {
+        "text": "Finalizar tarea: preparar la maleta",
+        "intent": 1
+    },
+    {
+        "text": "Ya hice escribir un informe",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de regresar a casa",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de limpiar la cocina",
+        "intent": 1
+    },
+    {
+        "text": "Listo, ya estudiar IA",
+        "intent": 1
+    },
+    {
+        "text": "Listo, ya ir al médico",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de ir al gimnasio",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de ir al gimnasio",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya tener una reunión",
+        "intent": 1
+    },
+    {
+        "text": "Ya hice llamar a mamá",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya revisar el informe",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de entrenar fuerza",
+        "intent": 1
+    },
+    {
+        "text": "Finalizar tarea: estudiar IA",
+        "intent": 1
+    },
+    {
+        "text": "Listo, ya terminar el reporte",
+        "intent": 1
+    },
+    {
+        "text": "Ya hice terminar el reporte",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de comprar ropa",
+        "intent": 1
+    },
+    {
+        "text": "Listo, ya hacer meditación",
+        "intent": 1
+    },
+    {
+        "text": "Tarea hacer meditación: completada",
+        "intent": 1
+    },
+    {
+        "text": "Ya hice hacer limpieza",
+        "intent": 1
+    },
+    {
+        "text": "Ya hice pintar la casa",
+        "intent": 1
+    },
+    {
+        "text": "Tarea pintar la casa: completada",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya grabar el podcast",
+        "intent": 1
+    },
+    {
+        "text": "Finalizar tarea: enviar la tarea",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de estudiar matemáticas",
+        "intent": 1
+    },
+    {
+        "text": "Ya hice renovar el seguro",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de tomar las vitaminas",
+        "intent": 1
+    },
+    {
+        "text": "Listo, ya lavar el coche",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de hacer la declaración de impuestos",
+        "intent": 1
+    },
+    {
+        "text": "Tarea revisar el informe: completada",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de tener una reunión completada",
+        "intent": 1
+    },
+    {
+        "text": "Finalizar tarea: sacar la basura",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de pagar las facturas",
+        "intent": 1
+    },
+    {
+        "text": "Listo, ya limpiar el baño",
+        "intent": 1
+    },
+    {
+        "text": "Listo, ya pagar las facturas",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de hacer la tarea finalizada",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de pasear al perro",
+        "intent": 1
+    },
+    {
+        "text": "Ya hice pasear al perro",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de enviar el correo",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya hacer la tarea",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de preparar el desayuno",
+        "intent": 1
+    },
+    {
+        "text": "Tarea renovar el seguro: completada",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de llamar a mamá",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de ir al médico completada",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de editar el video completada",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de asistir a la clase",
+        "intent": 1
+    },
+    {
+        "text": "Finalizar tarea: tener una reunión",
+        "intent": 1
+    },
+    {
+        "text": "Tarea cambiar la bombilla: completada",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de arreglar la bicicleta",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de ordenar el escritorio completada",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de comprar leche",
+        "intent": 1
+    },
+    {
+        "text": "Listo, ya tener una reunión",
+        "intent": 1
+    },
+    {
+        "text": "Ya hice hacer ejercicio",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya tener una reunión",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de llamar al jefe finalizada",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya ir al banco",
+        "intent": 1
+    },
+    {
+        "text": "Ya hice estudiar IA",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de hacer meditación",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de preparar la maleta",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de pagar las facturas",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya diseñar el logo",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya organizar la agenda",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya entrenar fuerza",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya preparar la maleta",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de comprar ropa",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de ver la presentación",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de hacer la compra",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de ir a la reunión",
+        "intent": 1
+    },
+    {
+        "text": "Ya hice ir a la farmacia",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de estudiar matemáticas",
+        "intent": 1
+    },
+    {
+        "text": "Ya hice decorar la sala",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya comprar pan",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya cortar el césped",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de ir al gimnasio",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de llamar a mamá",
+        "intent": 1
+    },
+    {
+        "text": "Finalizar tarea: terminar de escribir",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de llamar al jefe",
+        "intent": 1
+    },
+    {
+        "text": "Finalizar tarea: hacer meditación",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de ir al médico finalizada",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de llamar a mamá",
+        "intent": 1
+    },
+    {
+        "text": "Ya hice tomar las vitaminas",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya asistir a la clase",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de limpiar la cocina",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de hacer limpieza",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de organizar la agenda",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya organizar la agenda",
+        "intent": 1
+    },
+    {
+        "text": "Ya hice descargar los archivos",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de ir a la farmacia completada",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de ordenar el escritorio completada",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de terminar el proyecto",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de configurar la computadora completada",
+        "intent": 1
+    },
+    {
+        "text": "Finalizar tarea: organizar la agenda",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de asistir a la clase",
+        "intent": 1
+    },
+    {
+        "text": "Tarea cortar el césped: completada",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya ordenar el escritorio",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de cocinar la cena completada",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya renovar el seguro",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de ir a la farmacia completada",
+        "intent": 1
+    },
+    {
+        "text": "Tarea asistir a la conferencia: completada",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de programar la cita",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de programar la cita finalizada",
+        "intent": 1
+    },
+    {
+        "text": "Listo, ya cambiar la bombilla",
+        "intent": 1
+    },
+    {
+        "text": "Finalizar tarea: sacar la basura",
+        "intent": 1
+    },
+    {
+        "text": "Listo, ya revisar los documentos",
+        "intent": 1
+    },
+    {
+        "text": "Tarea preparar el desayuno: completada",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de regresar a casa",
+        "intent": 1
+    },
+    {
+        "text": "Ya hice grabar el podcast",
+        "intent": 1
+    },
+    {
+        "text": "Ya hice regresar a casa",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de llamar al jefe",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de trabajar en el proyecto",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de preparar el desayuno",
+        "intent": 1
+    },
+    {
+        "text": "Ya hice hacer limpieza",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de preparar la maleta",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de trabajar en el proyecto",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de revisar los documentos",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de preparar el desayuno",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de llamar al jefe completada",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de revisar el informe finalizada",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de ver la presentación finalizada",
+        "intent": 1
+    },
+    {
+        "text": "Ya hice pintar la casa",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya configurar la computadora",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de ordenar el escritorio",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de configurar la computadora",
+        "intent": 1
+    },
+    {
+        "text": "Tarea comprar ropa: completada",
+        "intent": 1
+    },
+    {
+        "text": "Hecho, ya cargar el móvil",
+        "intent": 1
+    },
+    {
+        "text": "Marcar como completada la tarea de cortar el césped",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de limpiar el baño",
+        "intent": 1
+    },
+    {
+        "text": "Acabé de limpiar el baño",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de arreglar la bicicleta",
+        "intent": 1
+    },
+    {
+        "text": "Finalizar tarea: cargar el móvil",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de leer un libro",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de trabajar en el proyecto",
+        "intent": 1
+    },
+    {
+        "text": "Ya hice limpiar la cocina",
+        "intent": 1
+    },
+    {
+        "text": "Tarea de diseñar el logo finalizada",
+        "intent": 1
+    },
+    {
+        "text": "Finalizar tarea: pintar la casa",
+        "intent": 1
+    },
+    {
+        "text": "He terminado de hacer meditación",
+        "intent": 1
+    },
+    {
+        "text": "¿Qué actividades tengo esta semana?",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas compromisos",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para el fin de semana",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi compromisos",
+        "intent": 2
+    },
+    {
+        "text": "Ver mi agenda de el fin de semana",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo el fin de semana?",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para hoy",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo en la agenda para hoy?",
+        "intent": 2
+    },
+    {
+        "text": "Enséñame mi tareas",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo la próxima semana?",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi calendario",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas agenda",
+        "intent": 2
+    },
+    {
+        "text": "¿Hay algo en mi agenda para la próxima semana?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo programado para hoy?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo programado para mañana?",
+        "intent": 2
+    },
+    {
+        "text": "Ver mi agenda de hoy",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo la próxima semana?",
+        "intent": 2
+    },
+    {
+        "text": "Ver mi agenda de el viernes",
+        "intent": 2
+    },
+    {
+        "text": "Ver mi agenda de el lunes",
+        "intent": 2
+    },
+    {
+        "text": "Enséñame mi tareas",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas eventos",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas agenda",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo el viernes?",
+        "intent": 2
+    },
+    {
+        "text": "Ver mi agenda de hoy",
+        "intent": 2
+    },
+    {
+        "text": "¿Hay algo en mi agenda para la próxima semana?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo este mes?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo la próxima semana?",
+        "intent": 2
+    },
+    {
+        "text": "¿Hay algo en mi agenda para esta semana?",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para esta semana",
+        "intent": 2
+    },
+    {
+        "text": "Enséñame mi calendario",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi compromisos",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas pendientes",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para el fin de semana",
+        "intent": 2
+    },
+    {
+        "text": "Enséñame mi calendario",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo mañana?",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi agenda",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo programado para el lunes?",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para mañana",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo la próxima semana?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo en la agenda para hoy?",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas pendientes",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas tareas",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi calendario",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas por hacer",
+        "intent": 2
+    },
+    {
+        "text": "¿Hay algo en mi agenda para este mes?",
+        "intent": 2
+    },
+    {
+        "text": "Ver mi agenda de el fin de semana",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas calendario",
+        "intent": 2
+    },
+    {
+        "text": "Ver mi agenda de mañana",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas pendientes",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas eventos",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo en la agenda para la próxima semana?",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para el viernes",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi tareas",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo en la agenda para el viernes?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo programado para el lunes?",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas por hacer",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para el lunes",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas por hacer",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas calendario",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi compromisos",
+        "intent": 2
+    },
+    {
+        "text": "Ver mi agenda de el fin de semana",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo en la agenda para esta semana?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo programado para hoy?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo esta semana?",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para esta semana",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para el fin de semana",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para el lunes",
+        "intent": 2
+    },
+    {
+        "text": "Ver mi agenda de mañana",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas por hacer",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas pendientes",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi compromisos",
+        "intent": 2
+    },
+    {
+        "text": "Ver mi agenda de el viernes",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas pendientes",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo programado para este mes?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo programado para el viernes?",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi agenda",
+        "intent": 2
+    },
+    {
+        "text": "Enséñame mi agenda",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo en la agenda para el viernes?",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi calendario",
+        "intent": 2
+    },
+    {
+        "text": "Ver mi agenda de el fin de semana",
+        "intent": 2
+    },
+    {
+        "text": "Enséñame mi compromisos",
+        "intent": 2
+    },
+    {
+        "text": "Enséñame mi tareas",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas por hacer",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo en la agenda para la próxima semana?",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas por hacer",
+        "intent": 2
+    },
+    {
+        "text": "Enséñame mi eventos",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas compromisos",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas pendientes",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para el fin de semana",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas por hacer",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi compromisos",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas eventos",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas compromisos",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi calendario",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para el viernes",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para el viernes",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo programado para el fin de semana?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo en la agenda para este mes?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo en la agenda para esta semana?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo en la agenda para hoy?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo en la agenda para hoy?",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi tareas",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi compromisos",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas tareas",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para el lunes",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo programado para el fin de semana?",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi tareas",
+        "intent": 2
+    },
+    {
+        "text": "¿Hay algo en mi agenda para hoy?",
+        "intent": 2
+    },
+    {
+        "text": "Enséñame mi compromisos",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo programado para el lunes?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo el lunes?",
+        "intent": 2
+    },
+    {
+        "text": "Enséñame mi agenda",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para el viernes",
+        "intent": 2
+    },
+    {
+        "text": "¿Hay algo en mi agenda para esta semana?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo en la agenda para mañana?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo mañana?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo en la agenda para la próxima semana?",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para el lunes",
+        "intent": 2
+    },
+    {
+        "text": "Ver mi agenda de el viernes",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi eventos",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas por hacer",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para hoy",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas calendario",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas por hacer",
+        "intent": 2
+    },
+    {
+        "text": "Enséñame mi tareas",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas eventos",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi tareas",
+        "intent": 2
+    },
+    {
+        "text": "Ver mi agenda de el fin de semana",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para el fin de semana",
+        "intent": 2
+    },
+    {
+        "text": "Ver mi agenda de esta semana",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas por hacer",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo esta semana?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo programado para mañana?",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi compromisos",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi tareas",
+        "intent": 2
+    },
+    {
+        "text": "Enséñame mi compromisos",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas calendario",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas tareas",
+        "intent": 2
+    },
+    {
+        "text": "Ver mi agenda de esta semana",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi agenda",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas eventos",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi eventos",
+        "intent": 2
+    },
+    {
+        "text": "¿Hay algo en mi agenda para este mes?",
+        "intent": 2
+    },
+    {
+        "text": "¿Hay algo en mi agenda para esta semana?",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para esta semana",
+        "intent": 2
+    },
+    {
+        "text": "Enséñame mi agenda",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas eventos",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para este mes",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas completadas",
+        "intent": 2
+    },
+    {
+        "text": "¿Hay algo en mi agenda para este mes?",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi compromisos",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo esta semana?",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas completadas",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi compromisos",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo el viernes?",
+        "intent": 2
+    },
+    {
+        "text": "Ver mi agenda de el fin de semana",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo programado para el viernes?",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas completadas",
+        "intent": 2
+    },
+    {
+        "text": "Ver mi agenda de mañana",
+        "intent": 2
+    },
+    {
+        "text": "Enséñame mi agenda",
+        "intent": 2
+    },
+    {
+        "text": "Ver mi agenda de este mes",
+        "intent": 2
+    },
+    {
+        "text": "Enséñame mi agenda",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo en la agenda para mañana?",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas pendientes",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo la próxima semana?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo en la agenda para mañana?",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi calendario",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo este mes?",
+        "intent": 2
+    },
+    {
+        "text": "¿Hay algo en mi agenda para el lunes?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo esta semana?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo programado para el viernes?",
+        "intent": 2
+    },
+    {
+        "text": "¿Hay algo en mi agenda para el viernes?",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi agenda",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas agenda",
+        "intent": 2
+    },
+    {
+        "text": "Enséñame mi compromisos",
+        "intent": 2
+    },
+    {
+        "text": "Enséñame mi agenda",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo el viernes?",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas pendientes",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para mañana",
+        "intent": 2
+    },
+    {
+        "text": "Mostrar mis tareas por hacer",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas calendario",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi eventos",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo programado para mañana?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo en la agenda para la próxima semana?",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas tareas",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo el fin de semana?",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas calendario",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi eventos",
+        "intent": 2
+    },
+    {
+        "text": "Lista de tareas para la próxima semana",
+        "intent": 2
+    },
+    {
+        "text": "¿Hay algo en mi agenda para esta semana?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo programado para el lunes?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué tengo en la agenda para esta semana?",
+        "intent": 2
+    },
+    {
+        "text": "Quiero ver mi compromisos",
+        "intent": 2
+    },
+    {
+        "text": "¿Hay algo en mi agenda para mañana?",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas compromisos",
+        "intent": 2
+    },
+    {
+        "text": "Enséñame mi compromisos",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo mañana?",
+        "intent": 2
+    },
+    {
+        "text": "¿Qué actividades tengo el lunes?",
+        "intent": 2
+    },
+    {
+        "text": "Dime mis próximas tareas",
+        "intent": 2
+    },
+    {
+        "text": "¿Hay algo en mi agenda para el viernes?",
+        "intent": 2
+    },
+    {
+        "text": "Que no se me pase recoger la ropa de la lavandería",
+        "intent": 3
+    },
+    {
+        "text": "Avísame cuando sea momento de inscribirme en el curso",
+        "intent": 3
+    },
+    {
+        "text": "Recuérdame hacer una transferencia antes de dormir",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar terminar la lectura en una hora",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar terminar la lectura más tarde",
+        "intent": 3
+    },
+    {
+        "text": "Avísame cuando sea momento de pasar por la tintorería",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes preparar la cena el próximo lunes",
+        "intent": 3
+    },
+    {
+        "text": "Pon un recordatorio para revisar el informe esta noche",
+        "intent": 3
+    },
+    {
+        "text": "Pon un recordatorio para revisar los documentos antes de dormir",
+        "intent": 3
+    },
+    {
+        "text": "Hazme un recordatorio para cargar la batería del móvil",
+        "intent": 3
+    },
+    {
+        "text": "Pon una alarma para en la tarde",
+        "intent": 3
+    },
+    {
+        "text": "Pon una alarma para a las 8 de la mañana",
+        "intent": 3
+    },
+    {
+        "text": "Quiero un aviso para acordarme de cambiar el aceite del coche",
+        "intent": 3
+    },
+    {
+        "text": "Quiero un aviso para acordarme de ir al supermercado",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar revisar el informe después del trabajo",
+        "intent": 3
+    },
+    {
+        "text": "Quiero un aviso para acordarme de visitar a mi abuela",
+        "intent": 3
+    },
+    {
+        "text": "Pon una alarma para en una hora",
+        "intent": 3
+    },
+    {
+        "text": "Quiero un aviso para acordarme de salir a correr",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes asistir al evento el próximo lunes",
+        "intent": 3
+    },
+    {
+        "text": "Pon un recordatorio para enviar un correo después del trabajo",
+        "intent": 3
+    },
+    {
+        "text": "Pon una alarma para en la tarde",
+        "intent": 3
+    },
+    {
+        "text": "Pon una alarma para después del trabajo",
+        "intent": 3
+    },
+    {
+        "text": "Que no se me pase hacer ejercicio",
+        "intent": 3
+    },
+    {
+        "text": "Pon un recordatorio para enviar el reporte mañana",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar comprar ingredientes para la cena el domingo",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes hacer una pausa y descansar en una hora",
+        "intent": 3
+    },
+    {
+        "text": "Recuérdame renovar el pasaporte en la tarde",
+        "intent": 3
+    },
+    {
+        "text": "Avísame cuando sea momento de llamar a mi madre",
+        "intent": 3
+    },
+    {
+        "text": "Que no se me pase sacar la basura",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes llamar al doctor a las 8 de la mañana",
+        "intent": 3
+    },
+    {
+        "text": "Quiero un aviso para acordarme de renovar el pasaporte",
+        "intent": 3
+    },
+    {
+        "text": "Pon un recordatorio para comprar ingredientes para la cena después del trabajo",
+        "intent": 3
+    },
+    {
+        "text": "Pon un recordatorio para cambiar el aceite del coche en una hora",
+        "intent": 3
+    },
+    {
+        "text": "Pon una alarma para más tarde",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de cambiar el aceite del coche",
+        "intent": 3
+    },
+    {
+        "text": "Pon una alarma para más tarde",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar preparar la cena en la tarde",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar comprar ingredientes para la cena la semana que viene",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de recoger un paquete",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de ver la presentación",
+        "intent": 3
+    },
+    {
+        "text": "Quiero un aviso para acordarme de renovar el pasaporte",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de ir al supermercado",
+        "intent": 3
+    },
+    {
+        "text": "Avísame cuando sea momento de recoger la ropa de la lavandería",
+        "intent": 3
+    },
+    {
+        "text": "Que no se me pase pedir comida",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar comprar boletos para el concierto después del trabajo",
+        "intent": 3
+    },
+    {
+        "text": "Quiero un aviso para acordarme de inscribirme en el curso",
+        "intent": 3
+    },
+    {
+        "text": "Avísame cuando sea momento de hacer una transferencia",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes hacer una pausa y descansar el sábado",
+        "intent": 3
+    },
+    {
+        "text": "Pon un recordatorio para hacer una transferencia después del trabajo",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes ver la presentación el próximo lunes",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar ir a la reunión el domingo",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar comprar ingredientes para la cena en la tarde",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar hacer una transferencia antes de dormir",
+        "intent": 3
+    },
+    {
+        "text": "Que no se me pase tomar mis medicinas",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de hacer una pausa y descansar",
+        "intent": 3
+    },
+    {
+        "text": "Avísame cuando sea momento de asistir a la conferencia",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes llamar a mi madre en la tarde",
+        "intent": 3
+    },
+    {
+        "text": "Recuérdame enviar un correo más tarde",
+        "intent": 3
+    },
+    {
+        "text": "Que no se me pase asistir a la conferencia",
+        "intent": 3
+    },
+    {
+        "text": "Pon una alarma para el próximo lunes",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar comprar ingredientes para la cena después del trabajo",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de ver la presentación",
+        "intent": 3
+    },
+    {
+        "text": "Avísame cuando sea momento de llamar al doctor",
+        "intent": 3
+    },
+    {
+        "text": "Recuérdame tomar mis medicinas al mediodía",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de asistir al evento",
+        "intent": 3
+    },
+    {
+        "text": "Pon una alarma para el domingo",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar enviar el reporte al mediodía",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes reunirme con el equipo esta noche",
+        "intent": 3
+    },
+    {
+        "text": "Quiero un aviso para acordarme de asistir al evento",
+        "intent": 3
+    },
+    {
+        "text": "Pon un recordatorio para cambiar el aceite del coche en una hora",
+        "intent": 3
+    },
+    {
+        "text": "Avísame cuando sea momento de hacer una pausa y descansar",
+        "intent": 3
+    },
+    {
+        "text": "Quiero un aviso para acordarme de practicar guitarra",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar llamar a mi madre en una hora",
+        "intent": 3
+    },
+    {
+        "text": "Pon una alarma para más tarde",
+        "intent": 3
+    },
+    {
+        "text": "Que no se me pase cita con el dentista",
+        "intent": 3
+    },
+    {
+        "text": "Recuérdame pagar la factura del teléfono esta noche",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar salir a correr en una hora",
+        "intent": 3
+    },
+    {
+        "text": "Recuérdame enviar un correo mañana",
+        "intent": 3
+    },
+    {
+        "text": "Hazme un recordatorio para pagar la factura del teléfono",
+        "intent": 3
+    },
+    {
+        "text": "Recuérdame pedir comida después del trabajo",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar llamar a mi madre esta noche",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar pasar por la tintorería en la tarde",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar cargar la batería del móvil la semana que viene",
+        "intent": 3
+    },
+    {
+        "text": "Pon una alarma para el sábado",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar ver el webinar la semana que viene",
+        "intent": 3
+    },
+    {
+        "text": "Pon un recordatorio para revisar el informe a las 8 de la mañana",
+        "intent": 3
+    },
+    {
+        "text": "Que no se me pase revisar los documentos",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de recoger la ropa de la lavandería",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar cambiar el aceite del coche más tarde",
+        "intent": 3
+    },
+    {
+        "text": "Pon una alarma para el sábado",
+        "intent": 3
+    },
+    {
+        "text": "Avísame cuando sea momento de recoger la ropa de la lavandería",
+        "intent": 3
+    },
+    {
+        "text": "Pon una alarma para el próximo lunes",
+        "intent": 3
+    },
+    {
+        "text": "Hazme un recordatorio para ver el webinar",
+        "intent": 3
+    },
+    {
+        "text": "Recuérdame ir a la reunión en la tarde",
+        "intent": 3
+    },
+    {
+        "text": "Quiero un aviso para acordarme de regar las plantas",
+        "intent": 3
+    },
+    {
+        "text": "Quiero un aviso para acordarme de ir a la reunión",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de cita con el dentista",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes sacar la basura en una hora",
+        "intent": 3
+    },
+    {
+        "text": "Avísame cuando sea momento de presentar el proyecto",
+        "intent": 3
+    },
+    {
+        "text": "Hazme un recordatorio para revisar el informe",
+        "intent": 3
+    },
+    {
+        "text": "Recuérdame asistir a la clase a las 8 de la mañana",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar hacer la compra mañana",
+        "intent": 3
+    },
+    {
+        "text": "Quiero un aviso para acordarme de reservar una mesa",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de hacer ejercicio",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de asistir a la conferencia",
+        "intent": 3
+    },
+    {
+        "text": "Recuérdame pedir comida al mediodía",
+        "intent": 3
+    },
+    {
+        "text": "Avísame cuando sea momento de reservar una mesa",
+        "intent": 3
+    },
+    {
+        "text": "Pon un recordatorio para enviar un correo en la tarde",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de visitar a mi abuela",
+        "intent": 3
+    },
+    {
+        "text": "Que no se me pase pasar por la tintorería",
+        "intent": 3
+    },
+    {
+        "text": "Quiero un aviso para acordarme de asistir a la conferencia",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de visitar a mi abuela",
+        "intent": 3
+    },
+    {
+        "text": "Que no se me pase inscribirme en el curso",
+        "intent": 3
+    },
+    {
+        "text": "Que no se me pase terminar la lectura",
+        "intent": 3
+    },
+    {
+        "text": "Hazme un recordatorio para ir a la reunión",
+        "intent": 3
+    },
+    {
+        "text": "Recuérdame cargar la batería del móvil esta noche",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de llamar a mi madre",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes revisar los documentos el próximo lunes",
+        "intent": 3
+    },
+    {
+        "text": "Pon una alarma para esta noche",
+        "intent": 3
+    },
+    {
+        "text": "Quiero un aviso para acordarme de regar las plantas",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes tomar mis medicinas el sábado",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar sacar la basura al mediodía",
+        "intent": 3
+    },
+    {
+        "text": "Hazme un recordatorio para renovar el pasaporte",
+        "intent": 3
+    },
+    {
+        "text": "Recuérdame llevar el auto al mecánico antes de dormir",
+        "intent": 3
+    },
+    {
+        "text": "Quiero un aviso para acordarme de recoger la ropa de la lavandería",
+        "intent": 3
+    },
+    {
+        "text": "Pon un recordatorio para llevar el auto al mecánico la semana que viene",
+        "intent": 3
+    },
+    {
+        "text": "Pon un recordatorio para pagar la factura del teléfono mañana",
+        "intent": 3
+    },
+    {
+        "text": "Pon una alarma para mañana",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de reunirme con el equipo",
+        "intent": 3
+    },
+    {
+        "text": "Pon un recordatorio para ver el webinar el próximo lunes",
+        "intent": 3
+    },
+    {
+        "text": "Que no se me pase confirmar la reserva",
+        "intent": 3
+    },
+    {
+        "text": "Quiero un aviso para acordarme de ver la película pendiente",
+        "intent": 3
+    },
+    {
+        "text": "Hazme un recordatorio para preparar la cena",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar estudiar para el examen esta noche",
+        "intent": 3
+    },
+    {
+        "text": "Hazme un recordatorio para revisar los documentos",
+        "intent": 3
+    },
+    {
+        "text": "Recuérdame terminar la lectura en una hora",
+        "intent": 3
+    },
+    {
+        "text": "Avísame cuando sea momento de asistir al evento",
+        "intent": 3
+    },
+    {
+        "text": "Hazme un recordatorio para renovar el pasaporte",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de ir al supermercado",
+        "intent": 3
+    },
+    {
+        "text": "Recuérdame ver la presentación mañana",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes visitar a mi abuela después del trabajo",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes comprar el regalo de aniversario a las 8 de la mañana",
+        "intent": 3
+    },
+    {
+        "text": "Pon un recordatorio para asistir al evento en una hora",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar ver el partido el domingo",
+        "intent": 3
+    },
+    {
+        "text": "Recuérdame presentar el proyecto al mediodía",
+        "intent": 3
+    },
+    {
+        "text": "Hazme un recordatorio para salir a correr",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de ir a la reunión",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de presentar el proyecto",
+        "intent": 3
+    },
+    {
+        "text": "Que no se me pase salir a correr",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes llamar al doctor a las 8 de la mañana",
+        "intent": 3
+    },
+    {
+        "text": "Que no se me pase salir a correr",
+        "intent": 3
+    },
+    {
+        "text": "Pon un recordatorio para asistir al evento más tarde",
+        "intent": 3
+    },
+    {
+        "text": "Avísame cuando sea momento de terminar la lectura",
+        "intent": 3
+    },
+    {
+        "text": "Avísame cuando sea momento de comprar el regalo de aniversario",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes salir a correr el domingo",
+        "intent": 3
+    },
+    {
+        "text": "Pon una alarma para en una hora",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes ir a la reunión en una hora",
+        "intent": 3
+    },
+    {
+        "text": "Recuérdame pedir comida el domingo",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes ver el webinar al mediodía",
+        "intent": 3
+    },
+    {
+        "text": "Avísame cuando sea momento de asistir al evento",
+        "intent": 3
+    },
+    {
+        "text": "Pon un recordatorio para ver la presentación la semana que viene",
+        "intent": 3
+    },
+    {
+        "text": "Pon un recordatorio para regar las plantas la semana que viene",
+        "intent": 3
+    },
+    {
+        "text": "Hazme un recordatorio para regar las plantas",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar llevar el auto al mecánico mañana",
+        "intent": 3
+    },
+    {
+        "text": "Quiero un aviso para acordarme de recoger un paquete",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de reservar una mesa",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes hacer la compra mañana",
+        "intent": 3
+    },
+    {
+        "text": "Hazme un recordatorio para practicar guitarra",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes renovar el pasaporte el domingo",
+        "intent": 3
+    },
+    {
+        "text": "Hazme un recordatorio para ver el partido",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes presentar el proyecto esta noche",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes cita con el dentista el domingo",
+        "intent": 3
+    },
+    {
+        "text": "Quiero un aviso para acordarme de comprar boletos para el concierto",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes practicar guitarra en una hora",
+        "intent": 3
+    },
+    {
+        "text": "Que no se me pase revisar los documentos",
+        "intent": 3
+    },
+    {
+        "text": "Pon un recordatorio para asistir a la clase después del trabajo",
+        "intent": 3
+    },
+    {
+        "text": "Hazme un recordatorio para comprar ingredientes para la cena",
+        "intent": 3
+    },
+    {
+        "text": "Recuérdame estudiar para el examen más tarde",
+        "intent": 3
+    },
+    {
+        "text": "Avísame cuando sea momento de comprar ingredientes para la cena",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar ver el webinar más tarde",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de pagar la factura del teléfono",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de hacer ejercicio",
+        "intent": 3
+    },
+    {
+        "text": "Pon una alarma para al mediodía",
+        "intent": 3
+    },
+    {
+        "text": "Hazme un recordatorio para llamar a mi madre",
+        "intent": 3
+    },
+    {
+        "text": "Pon un recordatorio para regar las plantas más tarde",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar ver la presentación el domingo",
+        "intent": 3
+    },
+    {
+        "text": "Avisar cuando sea hora de renovar el pasaporte",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar ir a la reunión mañana",
+        "intent": 3
+    },
+    {
+        "text": "Pon una alarma para en la tarde",
+        "intent": 3
+    },
+    {
+        "text": "Avísame cuando sea momento de comprar el regalo de aniversario",
+        "intent": 3
+    },
+    {
+        "text": "Hazme un recordatorio para enviar el reporte",
+        "intent": 3
+    },
+    {
+        "text": "Quiero un aviso para acordarme de presentar el proyecto",
+        "intent": 3
+    },
+    {
+        "text": "Hazme un recordatorio para regar las plantas",
+        "intent": 3
+    },
+    {
+        "text": "Que no se me pase llamar a mi madre",
+        "intent": 3
+    },
+    {
+        "text": "Recuérdame asistir a la conferencia al mediodía",
+        "intent": 3
+    },
+    {
+        "text": "Necesito que me recuerdes ver el webinar la semana que viene",
+        "intent": 3
+    },
+    {
+        "text": "No olvidar ver el webinar en una hora",
+        "intent": 3
+    },
+    {
+        "text": "Pon un recordatorio para comprar ingredientes para la cena más tarde",
+        "intent": 3
+    },
+    {
+        "text": "Que no se me pase pasar por la tintorería",
+        "intent": 3
+    },
+    {
+        "text": "Recuérdame asistir a la clase el domingo",
+        "intent": 3
+    },
+    {
+        "text": "Modificar agenda viaje de negocios para la semana que viene",
+        "intent": 4
+    },
+    {
+        "text": "Posponer revisión del coche para el sábado",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda cita con el médico para la tarde",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar viaje de negocios para el lunes",
+        "intent": 4
+    },
+    {
+        "text": "Mover sesión de entrenamiento para la noche",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar el horario de reunión",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar la fecha de actividad de leer",
+        "intent": 4
+    },
+    {
+        "text": "Cambia la hora de reserva en el restaurante, por favor",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda curso de idiomas para el fin de semana",
+        "intent": 4
+    },
+    {
+        "text": "Posponer inscripción al gimnasio para el lunes",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda pago de facturas para el fin de semana",
+        "intent": 4
+    },
+    {
+        "text": "Modificar agenda consulta con el abogado para dentro de dos días",
+        "intent": 4
+    },
+    {
+        "text": "Quiero posponer cita con el médico para antes de la cena",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar el momento de compra del supermercado",
+        "intent": 4
+    },
+    {
+        "text": "Cambia la hora de viaje de negocios, por favor",
+        "intent": 4
+    },
+    {
+        "text": "Mover clase de yoga para el miércoles en la mañana",
+        "intent": 4
+    },
+    {
+        "text": "Posponer visita a la familia para la tarde",
+        "intent": 4
+    },
+    {
+        "text": "Mover tarea de limpieza para después de las 5",
+        "intent": 4
+    },
+    {
+        "text": "Mover reunión para el miércoles en la mañana",
+        "intent": 4
+    },
+    {
+        "text": "Modificar agenda sesión de fisioterapia para la semana siguiente",
+        "intent": 4
+    },
+    {
+        "text": "Posponer inscripción al curso para después de las 5",
+        "intent": 4
+    },
+    {
+        "text": "Cambia la fecha de sesión de fisioterapia, por favor",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar el día de cita con el dentista",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda revisión del coche para antes de la cena",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar la fecha de evaluación de desempeño",
+        "intent": 4
+    },
+    {
+        "text": "Quiero posponer clase de natación para otro momento",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar el día de salida con amigos",
+        "intent": 4
+    },
+    {
+        "text": "Posponer inscripción al gimnasio para el lunes",
+        "intent": 4
+    },
+    {
+        "text": "Quiero posponer reunión para el lunes",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar el día de compra del supermercado",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda actividad de leer para la semana siguiente",
+        "intent": 4
+    },
+    {
+        "text": "Posponer reserva en el restaurante para el próximo viernes",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar cita con el optometrista para más tarde",
+        "intent": 4
+    },
+    {
+        "text": "Modificar agenda cumpleaños de un amigo para el lunes",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar el día de cumpleaños de un amigo",
+        "intent": 4
+    },
+    {
+        "text": "Modificar agenda actividad de leer para el lunes",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar el horario de sesión de meditación",
+        "intent": 4
+    },
+    {
+        "text": "Mover clase de yoga para el miércoles en la mañana",
+        "intent": 4
+    },
+    {
+        "text": "Posponer inscripción al gimnasio para la semana siguiente",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar el momento de revisión del seguro",
+        "intent": 4
+    },
+    {
+        "text": "Cambia la hora de tarea de comprar pan, por favor",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar inscripción al gimnasio para antes de la cena",
+        "intent": 4
+    },
+    {
+        "text": "Posponer viaje de negocios para la semana siguiente",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar salida con amigos para dentro de dos días",
+        "intent": 4
+    },
+    {
+        "text": "Mover clase de pilates para el lunes",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar grabación del podcast para la próxima semana",
+        "intent": 4
+    },
+    {
+        "text": "Modificar agenda cita con el contador para el fin de semana",
+        "intent": 4
+    },
+    {
+        "text": "Mover grabación del podcast para el sábado",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar conferencia en línea para antes de la cena",
+        "intent": 4
+    },
+    {
+        "text": "Mover curso de idiomas para después del almuerzo",
+        "intent": 4
+    },
+    {
+        "text": "Cambia el horario de inscripción al gimnasio, por favor",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar la fecha de cita con el optometrista",
+        "intent": 4
+    },
+    {
+        "text": "Mover cumpleaños de un amigo para otro día",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda reunión para el martes por la tarde",
+        "intent": 4
+    },
+    {
+        "text": "Mover pago de facturas para la próxima semana",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar salida con amigos para la tarde",
+        "intent": 4
+    },
+    {
+        "text": "Cambia el horario de cita con el contador, por favor",
+        "intent": 4
+    },
+    {
+        "text": "Posponer clase de pilates para el fin de semana",
+        "intent": 4
+    },
+    {
+        "text": "Modificar agenda grabación del podcast para el martes por la tarde",
+        "intent": 4
+    },
+    {
+        "text": "Posponer reserva en el restaurante para el martes por la tarde",
+        "intent": 4
+    },
+    {
+        "text": "Cambia la fecha de tarea de comprar pan, por favor",
+        "intent": 4
+    },
+    {
+        "text": "Quiero posponer consulta con el abogado para antes de la cena",
+        "intent": 4
+    },
+    {
+        "text": "Posponer clase de natación para otro momento",
+        "intent": 4
+    },
+    {
+        "text": "Posponer visita a la familia para después del almuerzo",
+        "intent": 4
+    },
+    {
+        "text": "Posponer grabación del podcast para la próxima semana",
+        "intent": 4
+    },
+    {
+        "text": "Posponer actividad de leer para otro día",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar el horario de viaje de negocios",
+        "intent": 4
+    },
+    {
+        "text": "Posponer grabación del podcast para el lunes",
+        "intent": 4
+    },
+    {
+        "text": "Cambia el momento de videollamada con el cliente, por favor",
+        "intent": 4
+    },
+    {
+        "text": "Posponer cumpleaños de un amigo para el martes por la tarde",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda cita con el médico para el miércoles en la mañana",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar la hora de clase de yoga",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar el horario de inscripción al curso",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar el momento de cita con el optometrista",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda presentación del proyecto para el lunes",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar el día de reserva en el restaurante",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda grabación del podcast para la semana que viene",
+        "intent": 4
+    },
+    {
+        "text": "Mover tarea de limpieza para después del almuerzo",
+        "intent": 4
+    },
+    {
+        "text": "Modificar agenda evaluación de desempeño para el miércoles en la mañana",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar la hora de conferencia en línea",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar la fecha de clase de pilates",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar tarea de programar para más tarde",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar la hora de viaje de negocios",
+        "intent": 4
+    },
+    {
+        "text": "Quiero posponer pago de facturas para el fin de semana",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar el día de visita a la familia",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar curso de idiomas para antes de la cena",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar reunión con el jefe para después del almuerzo",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar el horario de evento con el equipo",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar el día de revisión del seguro",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar la hora de actividad de leer",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar viaje de negocios para la noche",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar tarea de comprar pan para la próxima semana",
+        "intent": 4
+    },
+    {
+        "text": "Modificar agenda evento con el equipo para dentro de dos días",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda entrega del informe para después de las 5",
+        "intent": 4
+    },
+    {
+        "text": "Cambia el horario de clase de natación, por favor",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar inscripción al curso para la tarde",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar cita con el dentista para otro día",
+        "intent": 4
+    },
+    {
+        "text": "Quiero posponer clase de natación para el próximo viernes",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar el horario de videollamada con el cliente",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar la fecha de salida con amigos",
+        "intent": 4
+    },
+    {
+        "text": "Posponer inscripción al curso para la noche",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar compra del supermercado para el miércoles en la mañana",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar el momento de cita con el dentista",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar la fecha de cita con el contador",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar el momento de salida con amigos",
+        "intent": 4
+    },
+    {
+        "text": "Modificar agenda reserva en el restaurante para la tarde",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda clase de pilates para el martes por la tarde",
+        "intent": 4
+    },
+    {
+        "text": "Quiero posponer tarea de programar para la noche",
+        "intent": 4
+    },
+    {
+        "text": "Cambia el horario de clase de natación, por favor",
+        "intent": 4
+    },
+    {
+        "text": "Posponer revisión del coche para después del trabajo",
+        "intent": 4
+    },
+    {
+        "text": "Cambia el horario de reunión, por favor",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda videollamada con el cliente para la próxima semana",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar el día de sesión de fisioterapia",
+        "intent": 4
+    },
+    {
+        "text": "Posponer tarea de programar para después del almuerzo",
+        "intent": 4
+    },
+    {
+        "text": "Quiero posponer evento con el equipo para la semana que viene",
+        "intent": 4
+    },
+    {
+        "text": "Cambia el día de cita con el médico, por favor",
+        "intent": 4
+    },
+    {
+        "text": "Cambia la hora de tarea de limpieza, por favor",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar inscripción al gimnasio para antes de la cena",
+        "intent": 4
+    },
+    {
+        "text": "Quiero posponer curso de idiomas para otro día",
+        "intent": 4
+    },
+    {
+        "text": "Quiero posponer revisión del coche para después de las 5",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda cita con el médico para antes de la cena",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda compra del supermercado para el lunes",
+        "intent": 4
+    },
+    {
+        "text": "Mover reunión con el jefe para la tarde",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar cita con el contador para la semana que viene",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar la fecha de inscripción al curso",
+        "intent": 4
+    },
+    {
+        "text": "Quiero posponer sesión de meditación para dentro de dos días",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda conferencia en línea para el miércoles en la mañana",
+        "intent": 4
+    },
+    {
+        "text": "Modificar agenda clase de pilates para la noche",
+        "intent": 4
+    },
+    {
+        "text": "Posponer conferencia en línea para la próxima semana",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar curso de idiomas para después del almuerzo",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar cita con el optometrista para la noche",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar la hora de sesión de entrenamiento",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar el horario de curso de idiomas",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda cita con el dentista para la semana siguiente",
+        "intent": 4
+    },
+    {
+        "text": "Cambia la fecha de reunión, por favor",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar la hora de clase de yoga",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar cita con el dentista para el miércoles en la mañana",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar la hora de cita con el médico",
+        "intent": 4
+    },
+    {
+        "text": "Quiero posponer revisión del seguro para mañana a las 4",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar evaluación de desempeño para el lunes",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar la fecha de evaluación de desempeño",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda entrega de documentos para otro día",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar el día de presentación del proyecto",
+        "intent": 4
+    },
+    {
+        "text": "Posponer sesión de fisioterapia para el sábado",
+        "intent": 4
+    },
+    {
+        "text": "Posponer entrevista de trabajo para la próxima semana",
+        "intent": 4
+    },
+    {
+        "text": "Modificar agenda revisión del coche para el sábado",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda presentación del proyecto para el próximo viernes",
+        "intent": 4
+    },
+    {
+        "text": "Posponer clase de yoga para la tarde",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar la hora de cambio de aceite del coche",
+        "intent": 4
+    },
+    {
+        "text": "Cambia la fecha de cita con el contador, por favor",
+        "intent": 4
+    },
+    {
+        "text": "Cambia el día de videollamada con el cliente, por favor",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar el momento de compra del supermercado",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar el horario de tarea de programar",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar tarea de programar para después del trabajo",
+        "intent": 4
+    },
+    {
+        "text": "Posponer entrega del informe para el lunes",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda videollamada con el cliente para la semana que viene",
+        "intent": 4
+    },
+    {
+        "text": "Cambia el momento de compra del supermercado, por favor",
+        "intent": 4
+    },
+    {
+        "text": "Modificar agenda evaluación de desempeño para dentro de dos días",
+        "intent": 4
+    },
+    {
+        "text": "Modificar agenda pago de facturas para la próxima semana",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar la fecha de cambio de aceite del coche",
+        "intent": 4
+    },
+    {
+        "text": "Cambia el momento de consulta con el abogado, por favor",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar la fecha de reunión",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar sesión de entrenamiento para la semana siguiente",
+        "intent": 4
+    },
+    {
+        "text": "Modificar agenda pago de facturas para la próxima semana",
+        "intent": 4
+    },
+    {
+        "text": "Posponer presentación del proyecto para la próxima semana",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar el día de tarea de comprar pan",
+        "intent": 4
+    },
+    {
+        "text": "Quiero posponer cambio de aceite del coche para el sábado",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar el día de evaluación de desempeño",
+        "intent": 4
+    },
+    {
+        "text": "Quiero posponer cita con el optometrista para el próximo viernes",
+        "intent": 4
+    },
+    {
+        "text": "Quiero posponer evento con el equipo para después de las 5",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda sesión de entrenamiento para dentro de dos días",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar curso de idiomas para después de las 5",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar la hora de compra del supermercado",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar cita con el médico para otro día",
+        "intent": 4
+    },
+    {
+        "text": "Cambia el horario de cita con el optometrista, por favor",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar el momento de grabación del podcast",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar el horario de cita con el contador",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda reunión con el jefe para el próximo viernes",
+        "intent": 4
+    },
+    {
+        "text": "Posponer reunión con el jefe para otro momento",
+        "intent": 4
+    },
+    {
+        "text": "Posponer salida con amigos para la noche",
+        "intent": 4
+    },
+    {
+        "text": "Mover examen de certificación para el miércoles en la mañana",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda tarea de comprar pan para otro día",
+        "intent": 4
+    },
+    {
+        "text": "Posponer presentación del proyecto para el fin de semana",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar la fecha de clase de pilates",
+        "intent": 4
+    },
+    {
+        "text": "Quiero cambiar la hora de cita con el médico",
+        "intent": 4
+    },
+    {
+        "text": "Posponer tarea de limpieza para la tarde",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar el momento de grabación del podcast",
+        "intent": 4
+    },
+    {
+        "text": "Quiero posponer viaje de negocios para mañana a las 4",
+        "intent": 4
+    },
+    {
+        "text": "Modificar agenda salida con amigos para la semana siguiente",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar sesión de fisioterapia para la semana siguiente",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar actividad de leer para antes de la cena",
+        "intent": 4
+    },
+    {
+        "text": "Cambia la hora de cumpleaños de un amigo, por favor",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar entrega del informe para el miércoles en la mañana",
+        "intent": 4
+    },
+    {
+        "text": "Modificar agenda tarea de programar para después de las 5",
+        "intent": 4
+    },
+    {
+        "text": "Reagenda actividad de leer para antes de la cena",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar el día de grabación del podcast",
+        "intent": 4
+    },
+    {
+        "text": "Posponer sesión de fisioterapia para el próximo viernes",
+        "intent": 4
+    },
+    {
+        "text": "Necesito modificar la fecha de entrega de documentos",
+        "intent": 4
+    },
+    {
+        "text": "Modificar agenda curso de idiomas para el lunes",
+        "intent": 4
+    },
+    {
+        "text": "Cambiar visita a la familia para el próximo viernes",
+        "intent": 4
+    },
+
+
+
+
+
+
+    {
+        "text": "A las 7:00 correr los lunes y viernes",
+        "intent": 5
+    },
+    {
+        "text": "Estudiar programación una hora cada día",
+        "intent": 5
+    },
+    {
+        "text": "Los sábados por la mañana hacer la compra",
+        "intent": 5
+    },
+    {
+        "text": "Enviar reporte semanal los lunes a las 09:00",
+        "intent": 5
+    },
+    {
+        "text": "Leer un capítulo de un libro cada noche antes de dormir",
+        "intent": 5
+    },
+    {
+        "text": "Revisar el correo todos los días al mediodía",
+        "intent": 5
+    },
+    {
+        "text": "Los martes y jueves entrenar en el gimnasio",
+        "intent": 5
+    },
+    {
+        "text": "A las 18:30 llamar a mi madre cada fin de semana",
+        "intent": 5
+    },
+    {
+        "text": "Planificar menú semanal cada domingo a las 18:00",
+        "intent": 5
+    },
+    {
+        "text": "Cambiar las sábanas cada quince días",
+        "intent": 5
+    },
+    {
+        "text": "Visitar al dentista cada seis meses",
+        "intent": 5
+    },
+    {
+        "text": "Hacer copia de seguridad del servidor cada jueves",
+        "intent": 5
+    },
+    {
+        "text": "Cada mañana practicar meditación al despertar",
+        "intent": 5
+    },
+    {
+        "text": "Lavar la ropa los miércoles y domingos",
+        "intent": 5
+    },
+    {
+        "text": "Los primeros cinco días de cada mes pagar facturas",
+        "intent": 5
+    },
+    {
+        "text": "Leer el periódico cada mañana mientras desayuno",
+        "intent": 5
+    },
+    {
+        "text": "Archivar documentos pendientes todos los viernes a las 08:30",
+        "intent": 5
+    },
+    {
+        "text": "Los sábados actualizar contenido del sitio web",
+        "intent": 5
+    },
+    {
+        "text": "Asistir a clase de yoga martes y jueves",
+        "intent": 5
+    },
+    {
+        "text": "Enviar invitaciones para el evento a las 17:45 cada mes",
+        "intent": 5
+    },
+    {
+        "text": "Hacer estiramientos de muñecas cada hora en la oficina",
+        "intent": 5
+    },
+    {
+        "text": "Comprar comida para mi mascota todos los jueves",
+        "intent": 5
+    },
+    {
+        "text": "Actualizar redes sociales una vez al día",
+        "intent": 5
+    },
+    {
+        "text": "Cocinar comida saludable dos veces por semana",
+        "intent": 5
+    },
+    {
+        "text": "Sacar la basura los martes y sábados",
+        "intent": 5
+    },
+    {
+        "text": "Preparar la agenda diaria cada noche a las 21:00",
+        "intent": 5
+    },
+    {
+        "text": "Inspeccionar neumáticos del coche cada mes",
+        "intent": 5
+    },
+    {
+        "text": "Revisar objetivos cada domingo por la noche",
+        "intent": 5
+    },
+    {
+        "text": "Entrenar crossfit tres veces por semana",
+        "intent": 5
+    },
+    {
+        "text": "Leer un artículo técnico cada mañana al desayunar",
+        "intent": 5
+    },
+    {
+        "text": "Llamar al banco el último día hábil de mes",
+        "intent": 5
+    },
+    {
+        "text": "Hacer pilates todos los miércoles por la mañana",
+        "intent": 5
+    },
+    {
+        "text": "Enviar facturas de gastos cada viernes a las 16:00",
+        "intent": 5
+    },
+    {
+        "text": "Hacer videollamada con el equipo cada martes a las 17:00",
+        "intent": 5
+    },
+    {
+        "text": "Pagar el Internet el primer sábado de cada mes",
+        "intent": 5
+    },
+    {
+        "text": "Sacar a pasear al perro a diario a las 19:00",
+        "intent": 5
+    },
+    {
+        "text": "Revisar tendencias de mercado cada lunes por la tarde",
+        "intent": 5
+    },
+    {
+        "text": "Organizar facturas cada jueves al cerrar jornada",
+        "intent": 5
+    },
+    {
+        "text": "Tomar un descanso activo cada hora en la oficina",
+        "intent": 5
+    },
+    {
+        "text": "Enviar newsletter semanal todos los jueves",
+        "intent": 5
+    },
+    {
+        "text": "Hacer seguimiento de dietas el primer día de cada semana",
+        "intent": 5
+    },
+    {
+        "text": "Lavar el coche cada dos semanas",
+        "intent": 5
+    },
+    {
+        "text": "Revisar el sistema de backup todos los lunes",
+        "intent": 5
+    },
+    {
+        "text": "Comprar tinta para la impresora los lunes",
+        "intent": 5
+    },
+    {
+        "text": "Leer un poema cada noche antes de dormir",
+        "intent": 5
+    },
+    {
+        "text": "Revisar balance bancario cada viernes",
+        "intent": 5
+    },
+    {
+        "text": "Hacer paseos en bicicleta los fines de semana",
+        "intent": 5
+    },
+    {
+        "text": "Entrenar natación tres veces a la semana en la piscina",
+        "intent": 5
+    },
+    {
+        "text": "Revisar la inversión en bolsa cada dos semanas",
+        "intent": 5
+    },
+    {
+        "text": "Práctica de dibujo los miércoles por la tarde",
+        "intent": 5
+    },
+    {
+        "text": "Enviar invitaciones para la reunión mensual el primer día hábil",
+        "intent": 5
+    },
+    {
+        "text": "Practicar meditación cada mañana al despertar",
+        "intent": 5
+    },
+    {
+        "text": "Limpiar el polvo de los muebles cada dos semanas",
+        "intent": 5
+    },
+    {
+        "text": "Preparar café para el equipo todos los días a las 10:00",
+        "intent": 5
+    },
+    {
+        "text": "Revisar requisitos del proyecto cada lunes a las 09:30",
+        "intent": 5
+    },
+    {
+        "text": "Compartir avances con el equipo todos los viernes",
+        "intent": 5
+    },
+    {
+        "text": "Asistir al taller de ergonomía en la oficina cada mes",
+        "intent": 5
+    },
+    {
+        "text": "Planificar metas de salud cada domingo por la noche",
+        "intent": 5
+    },
+    {
+        "text": "Auditar las cuentas de usuario cada mes",
+        "intent": 5
+    },
+    {
+        "text": "Leer resúmenes de artículos científicos cada mañana",
+        "intent": 5
+    },
+    {
+        "text": "Revisar métricas de redes sociales cada dos días",
+        "intent": 5
+    },
+    {
+        "text": "Hacer journaling cada noche antes de acostarme",
+        "intent": 5
+    },
+    {
+        "text": "Visitar la sala de lectura cada tarde después del trabajo",
+        "intent": 5
+    },
+    {
+        "text": "Comprar suplementos vitamínicos cada tres meses",
+        "intent": 5
+    },
+    {
+        "text": "Tomar un batido de proteínas cada mañana después de entrenar",
+        "intent": 5
+    },
+    {
+        "text": "Renovar suscripción de software cada año en julio",
+        "intent": 5
+    },
+    {
+        "text": "Tener cita con el nutricionista un martes al mes",
+        "intent": 5
+    },
+    {
+        "text": "Preparar la agenda diaria cada noche a las 21:00",
+        "intent": 5
+    },
+    {
+        "text": "Enviar feedback del trabajo cada viernes a las 18:00",
+        "intent": 5
+    },
+    {
+        "text": "Tomar un descanso de café cada dos horas",
+        "intent": 5
+    },
+    {
+        "text": "Lavar ventanas cada mes el primer sábado",
+        "intent": 5
+    },
+    {
+        "text": "Visitar al jardinero para mantenimiento mensual",
+        "intent": 5
+    },
+    {
+        "text": "A las 8:00 revisar stock de suministros cada mes",
+        "intent": 5
+    },
+    {
+        "text": "Hacer estiramientos de espalda cada día al mediodía",
+        "intent": 5
+    },
+    {
+        "text": "Configurar limpieza de filtros de aire cada cuatro semanas",
+        "intent": 5
+    },
+    {
+        "text": "Llamar al soporte técnico cada trimestre",
+        "intent": 5
+    },
+    {
+        "text": "Entrenar boxeo dos veces por semana",
+        "intent": 5
+    },
+    {
+        "text": "Programar podcast semanal todos los lunes a las 08:00",
+        "intent": 5
+    },
+    {
+        "text": "Inscribirse en la carrera benéfica de 5K cada primavera",
+        "intent": 5
+    },
+    {
+        "text": "Organizar facturas cada jueves al cerrar jornada",
+        "intent": 5
+    },
+    {
+        "text": "Anotar métricas de tráfico web cada mañana",
+        "intent": 5
+    },
+    {
+        "text": "Revisar lista de contactos cada mes",
+        "intent": 5
+    },
+    {
+        "text": "Pagar suscripciones digitales cada mes",
+        "intent": 5
+    },
+    {
+        "text": "Comprar productos de limpieza cada dos semanas",
+        "intent": 5
+    },
+    {
+        "text": "Hacer seguimiento de dietas el primer día de cada semana",
+        "intent": 5
+    },
+    {
+        "text": "Leer noticias económicas cada día al levantarme",
+        "intent": 5
+    },
+    {
+        "text": "Limpiar el escritorio los viernes por la tarde",
+        "intent": 5
+    },
+    {
+        "text": "Enviar el resumen de gastos cada fin de mes",
+        "intent": 5
+    },
+    {
+        "text": "Revisar el plan de lanzamiento cada jueves",
+        "intent": 5
+    },
+    {
+        "text": "Tocar la guitarra tres veces a la semana",
+        "intent": 5
+    },
+    {
+        "text": "Leer un artículo de noticias cada mañana a las 07:45",
+        "intent": 5
+    },
+    {
+        "text": "Cocinar batch cooking cada domingo por la mañana",
+        "intent": 5
+    },
+    {
+        "text": "Enviar reporte de ventas diario todos los días a las 17:00",
+        "intent": 5
+    },
+    {
+        "text": "Pagar facturas los primeros cinco días de cada mes",
+        "intent": 5
+    },
+
+
+    {
+        "text": "Repetir jugar al tenis cada tres días a las 10",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi salir a correr para los lunes después del trabajo a las 7",
+        "intent": 5
+    },
+    {
+        "text": "Ajusta mi horario para que cada semana sean para descansar",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi realizar planificación semanal para cada mes a las 12",
+        "intent": 5
+    },
+    {
+        "text": "Repetir hacer limpieza cada dos semanas a las 10",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi ir al trabajo para cada mes a las 6",
+        "intent": 5
+    },
+    {
+        "text": "Ajusta mi horario para que los sábados y domingos sean para trabajar",
+        "intent": 5
+    },
+    {
+        "text": "Repetir reunión de seguimiento cada mañana a las 8",
+        "intent": 5
+    },
+    {
+        "text": "Quiero escribir en mi diario cada mañana a las 19",
+        "intent": 5
+    },
+    {
+        "text": "Quiero cenar con la familia cada dos semanas a las 18",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para participar en un webinar cada tres días",
+        "intent": 5
+    },
+    {
+        "text": "Repetir hacer jardinería cada mes a las 6",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para cocinar la cena todos los días",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para preparar el desayuno los sábados y domingos",
+        "intent": 5
+    },
+    {
+        "text": "Quiero escribir en mi diario los viernes por la mañana a las 16",
+        "intent": 5
+    },
+    {
+        "text": "Ajusta mi horario para que los martes y jueves sean para hacer deporte",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi hacer sesión de lectura para cada dos semanas a las 18",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para hacer la compra los martes y jueves",
+        "intent": 5
+    },
+    {
+        "text": "Repetir dormir temprano cada noche a las 20",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que ir al trabajo cada noche a las 14",
+        "intent": 5
+    },
+    {
+        "text": "Repetir hacer una videollamada cada semana a las 8",
+        "intent": 5
+    },
+    {
+        "text": "Quiero realizar planificación semanal cada semana a las 21",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para asistir a misa cada día hábil",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que hacer ejercicio cada día hábil a las 18",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi asistir a clases de inglés para los sábados y domingos a las 12",
+        "intent": 5
+    },
+    {
+        "text": "Repetir pagar facturas cada noche a las 19",
+        "intent": 5
+    },
+    {
+        "text": "Establece que cada mes a las 6 tengo sesión de fisioterapia",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi revisar el correo para todos los días a las 12",
+        "intent": 5
+    },
+    {
+        "text": "Ajusta mi horario para que cada mañana sean para aprender algo nuevo",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para tomar café todos los lunes y miércoles",
+        "intent": 5
+    },
+    {
+        "text": "Quiero cenar con la familia cada fin de semana a las 14",
+        "intent": 5
+    },
+    {
+        "text": "Ajusta mi horario para que los miércoles en la tarde sean para leer",
+        "intent": 5
+    },
+    {
+        "text": "Quiero cocinar la cena cada mes a las 10",
+        "intent": 5
+    },
+    {
+        "text": "Ajusta mi horario para que cada fin de semana sean para leer",
+        "intent": 5
+    },
+    {
+        "text": "Quiero asistir a misa cada mes a las 9",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que pagar facturas los domingos al mediodía a las 14",
+        "intent": 5
+    },
+    {
+        "text": "Quiero realizar planificación semanal cada semana a las 21",
+        "intent": 5
+    },
+    {
+        "text": "Fijar en mi agenda ver una serie cada tres días por la noche",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que leer el periódico los sábados y domingos a las 6",
+        "intent": 5
+    },
+    {
+        "text": "Establece que los miércoles en la tarde a las 8 tengo escribir en mi diario",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para cita con el dentista cada semana",
+        "intent": 5
+    },
+    {
+        "text": "Establece que los viernes por la mañana a las 6 tengo revisar el correo",
+        "intent": 5
+    },
+    {
+        "text": "Establece que cada fin de semana a las 7 tengo pasear al perro",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que reunión de seguimiento cada tres días a las 11",
+        "intent": 5
+    },
+    {
+        "text": "Repetir hacer estiramientos cada tres días a las 19",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para ver una película todos los lunes y miércoles",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi ensayar con la banda para los domingos al mediodía a las 12",
+        "intent": 5
+    },
+    {
+        "text": "Quiero hacer ejercicios de respiración los viernes por la mañana a las 16",
+        "intent": 5
+    },
+    {
+        "text": "Quiero ir al trabajo los miércoles en la tarde a las 8",
+        "intent": 5
+    },
+    {
+        "text": "Fijar en mi agenda salir a correr cada tres días por la noche",
+        "intent": 5
+    },
+    {
+        "text": "Quiero participar en un webinar cada fin de semana a las 19",
+        "intent": 5
+    },
+    {
+        "text": "Quiero ver una película todos los días a las 11",
+        "intent": 5
+    },
+    {
+        "text": "Establece que todos los lunes y miércoles a las 8 tengo ensayar con la banda",
+        "intent": 5
+    },
+    {
+        "text": "Ajusta mi horario para que cada semana sean para descansar",
+        "intent": 5
+    },
+    {
+        "text": "Establece que cada mañana a las 21 tengo entrenar",
+        "intent": 5
+    },
+    {
+        "text": "Establece que todos los lunes y miércoles a las 8 tengo asistir a clases de inglés",
+        "intent": 5
+    },
+    {
+        "text": "Quiero hacer ejercicios de respiración los miércoles en la tarde a las 18",
+        "intent": 5
+    },
+    {
+        "text": "Repetir estudiar los sábados y domingos a las 12",
+        "intent": 5
+    },
+    {
+        "text": "Fijar en mi agenda hacer ejercicio cada tres días por la después de almorzar",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para estudiar todos los días",
+        "intent": 5
+    },
+    {
+        "text": "Establece que cada dos semanas a las 20 tengo tomar café",
+        "intent": 5
+    },
+    {
+        "text": "Repetir dormir temprano cada mañana a las 11",
+        "intent": 5
+    },
+    {
+        "text": "Establece que cada tres días a las 20 tengo entrenar",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para estudiar cada noche",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi ensayar con la banda para cada día hábil a las 18",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que leer el periódico los viernes por la mañana a las 20",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que ensayar con la banda cada tres días a las 19",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi sesión de fisioterapia para cada noche a las 22",
+        "intent": 5
+    },
+    {
+        "text": "Establece que todos los lunes y miércoles a las 20 tengo hacer una videollamada",
+        "intent": 5
+    },
+    {
+        "text": "Ajusta mi horario para que cada noche sean para relajarme",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi ordenar mi habitación para los martes y jueves a las 22",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que ordenar mi habitación cada tres días a las 19",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi asistir a clases de inglés para cada día hábil a las 6",
+        "intent": 5
+    },
+    {
+        "text": "Quiero asistir a clases de inglés los domingos al mediodía a las 18",
+        "intent": 5
+    },
+    {
+        "text": "Establece que cada mes a las 8 tengo ordenar mi habitación",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi preparar el desayuno para cada fin de semana a las 9",
+        "intent": 5
+    },
+    {
+        "text": "Quiero ver una serie cada día hábil a las 16",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi ensayar con la banda para cada tres días a las 20",
+        "intent": 5
+    },
+    {
+        "text": "Repetir participar en un webinar cada tres días a las 6",
+        "intent": 5
+    },
+    {
+        "text": "Ajusta mi horario para que los lunes después del trabajo sean para trabajar",
+        "intent": 5
+    },
+    {
+        "text": "Quiero descansar los domingos al mediodía a las 22",
+        "intent": 5
+    },
+    {
+        "text": "Fijar en mi agenda hacer la compra todos los lunes y miércoles por la tarde",
+        "intent": 5
+    },
+    {
+        "text": "Quiero ver una serie los viernes por la mañana a las 22",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi hacer una videollamada para cada mañana a las 14",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que hacer limpieza cada día hábil a las 10",
+        "intent": 5
+    },
+    {
+        "text": "Repetir tener reunión con el equipo de trabajo cada dos semanas a las 16",
+        "intent": 5
+    },
+    {
+        "text": "Fijar en mi agenda asistir a clases de inglés los lunes después del trabajo por la mañana",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi descansar para cada tres días a las 21",
+        "intent": 5
+    },
+    {
+        "text": "Fijar en mi agenda pagar facturas los domingos al mediodía por la después de almorzar",
+        "intent": 5
+    },
+    {
+        "text": "Quiero asistir a clases de inglés cada dos semanas a las 20",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que reunión de seguimiento los martes y jueves a las 21",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que hacer la compra todos los días a las 11",
+        "intent": 5
+    },
+    {
+        "text": "Quiero ensayar con la banda los miércoles en la tarde a las 19",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para descansar cada tres días",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi ver una película para cada mañana a las 14",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que ir a clase de yoga los miércoles en la tarde a las 9",
+        "intent": 5
+    },
+    {
+        "text": "Quiero hacer ejercicio cada día hábil a las 18",
+        "intent": 5
+    },
+    {
+        "text": "Repetir ensayar con la banda cada dos semanas a las 21",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que reunión de seguimiento los lunes después del trabajo a las 21",
+        "intent": 5
+    },
+    {
+        "text": "Quiero asistir a misa los lunes después del trabajo a las 12",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi hacer una videollamada para todos los días a las 20",
+        "intent": 5
+    },
+    {
+        "text": "Establece que todos los lunes y miércoles a las 9 tengo participar en un webinar",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para tomar café cada mañana",
+        "intent": 5
+    },
+    {
+        "text": "Quiero pasear al perro todos los días a las 20",
+        "intent": 5
+    },
+    {
+        "text": "Establece que cada semana a las 22 tengo cocinar la cena",
+        "intent": 5
+    },
+    {
+        "text": "Fijar en mi agenda hacer sesión de lectura cada dos semanas por la después de almorzar",
+        "intent": 5
+    },
+    {
+        "text": "Fijar en mi agenda jugar al tenis los domingos al mediodía por la tarde",
+        "intent": 5
+    },
+    {
+        "text": "Quiero jugar al tenis los martes y jueves a las 16",
+        "intent": 5
+    },
+    {
+        "text": "Fijar en mi agenda tomar café cada semana por la antes de dormir",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que cita con el dentista cada fin de semana a las 20",
+        "intent": 5
+    },
+    {
+        "text": "Quiero cenar con la familia cada tres días a las 10",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi preparar la comida de la semana para cada dos semanas a las 14",
+        "intent": 5
+    },
+    {
+        "text": "Repetir preparar el desayuno cada día hábil a las 19",
+        "intent": 5
+    },
+    {
+        "text": "Ajusta mi horario para que los lunes después del trabajo sean para trabajar",
+        "intent": 5
+    },
+    {
+        "text": "Quiero caminar por el parque los domingos al mediodía a las 11",
+        "intent": 5
+    },
+    {
+        "text": "Ajusta mi horario para que cada semana sean para aprender algo nuevo",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que asistir a clases de inglés todos los días a las 20",
+        "intent": 5
+    },
+    {
+        "text": "Fijar en mi agenda hacer ejercicios de respiración los lunes después del trabajo por la tarde",
+        "intent": 5
+    },
+    {
+        "text": "Ajusta mi horario para que los viernes por la mañana sean para hacer deporte",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que ordenar mi habitación cada fin de semana a las 9",
+        "intent": 5
+    },
+    {
+        "text": "Fijar en mi agenda ordenar mi habitación los viernes por la mañana por la mañana",
+        "intent": 5
+    },
+    {
+        "text": "Establece que cada fin de semana a las 22 tengo preparar el desayuno",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para asistir a clases de pilates los martes y jueves",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para tomar vitaminas cada día hábil",
+        "intent": 5
+    },
+    {
+        "text": "Repetir estudiar cada mañana a las 9",
+        "intent": 5
+    },
+    {
+        "text": "Quiero ver una serie todos los días a las 22",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para ver una película todos los días",
+        "intent": 5
+    },
+    {
+        "text": "Establece que los domingos al mediodía a las 19 tengo ir a clase de yoga",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que estudiar los lunes después del trabajo a las 22",
+        "intent": 5
+    },
+    {
+        "text": "Ajusta mi horario para que los lunes después del trabajo sean para leer",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para hacer la compra cada fin de semana",
+        "intent": 5
+    },
+    {
+        "text": "Establece que los sábados y domingos a las 19 tengo reunión de seguimiento",
+        "intent": 5
+    },
+    {
+        "text": "Fijar en mi agenda ver una película cada mes por la noche",
+        "intent": 5
+    },
+    {
+        "text": "Ajusta mi horario para que cada noche sean para leer",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para preparar el desayuno todos los lunes y miércoles",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi preparar la comida de la semana para cada tres días a las 12",
+        "intent": 5
+    },
+    {
+        "text": "Establece que cada fin de semana a las 16 tengo hacer la compra",
+        "intent": 5
+    },
+    {
+        "text": "Ajusta mi horario para que los miércoles en la tarde sean para descansar",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para jugar al tenis cada semana",
+        "intent": 5
+    },
+    {
+        "text": "Fijar en mi agenda ir a clase de yoga cada día hábil por la después de almorzar",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para hacer jardinería cada dos semanas",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para entrenar cada mes",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que ver una serie los viernes por la mañana a las 22",
+        "intent": 5
+    },
+    {
+        "text": "Programa ir a clase de yoga para todos los días a las 12",
+        "intent": 5
+    },
+    {
+        "text": "Programa ver una serie para los miércoles en la tarde a las 10",
+        "intent": 5
+    },
+    {
+        "text": "Quiero revisar el correo cada fin de semana a las 21",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi estudiar para los martes y jueves a las 20",
+        "intent": 5
+    },
+    {
+        "text": "Establece que los miércoles en la tarde a las 19 tengo pagar facturas",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que jugar al tenis todos los días a las 11",
+        "intent": 5
+    },
+    {
+        "text": "Ajusta mi horario para que los sábados y domingos sean para trabajar",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que ir a clase de yoga cada semana a las 14",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que hacer una videollamada los lunes después del trabajo a las 18",
+        "intent": 5
+    },
+    {
+        "text": "Ajusta mi horario para que los sábados y domingos sean para relajarme",
+        "intent": 5
+    },
+    {
+        "text": "Repetir escribir en mi diario los lunes después del trabajo a las 20",
+        "intent": 5
+    },
+    {
+        "text": "Establece que cada mañana a las 10 tengo meditar",
+        "intent": 5
+    },
+    {
+        "text": "Fijar en mi agenda ir a clase de yoga cada mes por la tarde",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi hacer sesión de lectura para los lunes después del trabajo a las 19",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para cocinar la cena cada día hábil",
+        "intent": 5
+    },
+    {
+        "text": "Repetir asistir a clases de inglés cada semana a las 22",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi realizar planificación semanal para cada mañana a las 8",
+        "intent": 5
+    },
+    {
+        "text": "Repetir meditar los lunes después del trabajo a las 7",
+        "intent": 5
+    },
+    {
+        "text": "Quiero dormir temprano los sábados y domingos a las 9",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para realizar planificación semanal cada dos semanas",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que preparar el desayuno los miércoles en la tarde a las 18",
+        "intent": 5
+    },
+    {
+        "text": "Repetir leer el periódico cada dos semanas a las 16",
+        "intent": 5
+    },
+    {
+        "text": "Repetir cocinar la cena todos los lunes y miércoles a las 20",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que hacer ejercicio cada tres días a las 9",
+        "intent": 5
+    },
+    {
+        "text": "Establece que los viernes por la mañana a las 20 tengo ir al trabajo",
+        "intent": 5
+    },
+    {
+        "text": "Ajusta mi horario para que los viernes por la mañana sean para relajarme",
+        "intent": 5
+    },
+    {
+        "text": "Fijar en mi agenda leer el periódico los viernes por la mañana por la a primera hora",
+        "intent": 5
+    },
+    {
+        "text": "Ajusta mi horario para que cada semana sean para aprender algo nuevo",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para entrenar los sábados y domingos",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para ir al supermercado cada semana",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi hacer ejercicios de respiración para los lunes después del trabajo a las 9",
+        "intent": 5
+    },
+    {
+        "text": "Fijar en mi agenda pagar facturas cada tres días por la a primera hora",
+        "intent": 5
+    },
+    {
+        "text": "Repetir asistir a clases de inglés los viernes por la mañana a las 8",
+        "intent": 5
+    },
+    {
+        "text": "Quiero hacer una videollamada todos los días a las 20",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que asistir a clases de inglés los lunes después del trabajo a las 11",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para hacer jardinería cada día hábil",
+        "intent": 5
+    },
+    {
+        "text": "Quiero cenar con la familia cada mañana a las 8",
+        "intent": 5
+    },
+    {
+        "text": "Fijar en mi agenda jugar al tenis cada semana por la a primera hora",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi cenar con la familia para cada noche a las 8",
+        "intent": 5
+    },
+    {
+        "text": "Repetir ver una serie todos los lunes y miércoles a las 22",
+        "intent": 5
+    },
+    {
+        "text": "Quiero pagar facturas cada dos semanas a las 10",
+        "intent": 5
+    },
+    {
+        "text": "Ajusta mi horario para que los lunes después del trabajo sean para relajarme",
+        "intent": 5
+    },
+    {
+        "text": "Establece que los lunes después del trabajo a las 7 tengo pasear al perro",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi cenar con la familia para los lunes después del trabajo a las 9",
+        "intent": 5
+    },
+    {
+        "text": "Establece que todos los lunes y miércoles a las 16 tengo entrenar",
+        "intent": 5
+    },
+    {
+        "text": "Establece que los viernes por la mañana a las 14 tengo asistir a misa",
+        "intent": 5
+    },
+    {
+        "text": "Programa mi sesión de fisioterapia para todos los lunes y miércoles a las 14",
+        "intent": 5
+    },
+    {
+        "text": "Fijar en mi agenda asistir a clases de inglés cada semana por la antes de dormir",
+        "intent": 5
+    },
+    {
+        "text": "Quiero ordenar mi habitación cada día hábil a las 21",
+        "intent": 5
+    },
+    {
+        "text": "Repetir hacer ejercicio cada fin de semana a las 22",
+        "intent": 5
+    },
+    {
+        "text": "Establece que los sábados y domingos a las 22 tengo ir al supermercado",
+        "intent": 5
+    },
+    {
+        "text": "Fijar en mi agenda reunión de seguimiento cada tres días por la noche",
+        "intent": 5
+    },
+    {
+        "text": "Establece que cada noche a las 10 tengo descansar",
+        "intent": 5
+    },
+    {
+        "text": "Fijar en mi agenda cocinar la cena los martes y jueves por la mañana",
+        "intent": 5
+    },
+    {
+        "text": "Establece que todos los días a las 20 tengo estudiar",
+        "intent": 5
+    },
+    {
+        "text": "Necesito tener tiempo para dormir temprano cada noche",
+        "intent": 5
+    },
+    {
+        "text": "Tengo que ver una película cada fin de semana a las 20",
+        "intent": 5
+    },
+    {
+        "text": "Cancelar la tarea de preparar el desayuno saludable",
+        "intent": 6
+    },
+    {
+        "text": "No va a ser necesario realizar la tarea de terminar el diseño del logo, elimínala",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice planificar la salida con amigos",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda escribir en el diario",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas editar el video de la presentación",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice terminar el trabajo de investigación",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas comprar entradas para el concierto",
+        "intent": 6
+    },
+    {
+        "text": "Borra por favor asistir al webinar",
+        "intent": 6
+    },
+    {
+        "text": "Borrar tarea revisión del coche",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice revisar los informes financieros",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas hacer el presupuesto mensual",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda enviar el correo pendiente",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice comprar entradas para el concierto",
+        "intent": 6
+    },
+    {
+        "text": "Borrar tarea preparar la presentación",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas ir a comprar al supermercado",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de hacer una pausa para descansar",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice organizar los documentos del proyecto",
+        "intent": 6
+    },
+    {
+        "text": "Quitar de la agenda la tarea de realizar la auditoría interna",
+        "intent": 6
+    },
+    {
+        "text": "Borrar tarea preparar la presentación",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de revisar los documentos legales",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas inscribirme en el maratón",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice planificar la salida con amigos",
+        "intent": 6
+    },
+    {
+        "text": "Borrar tarea ver la serie nueva",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice completar el cuestionario",
+        "intent": 6
+    },
+    {
+        "text": "Cancelar la tarea de reservar el hotel",
+        "intent": 6
+    },
+    {
+        "text": "Borra por favor reservar el hotel",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea hacer una videollamada con el cliente",
+        "intent": 6
+    },
+    {
+        "text": "No va a ser necesario realizar la tarea de llamar a mi hermano el domingo, elimínala",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice hacer la tarea de programación",
+        "intent": 6
+    },
+    {
+        "text": "Borrar tarea preparar el desayuno saludable",
+        "intent": 6
+    },
+    {
+        "text": "Quitar de la agenda la tarea de confirmar la asistencia al evento",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda ir al dentista",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice ir a comprar al supermercado",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea inscribirme en el curso de cocina",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda revisión del coche",
+        "intent": 6
+    },
+    {
+        "text": "Borrar tarea hacer una pausa para descansar",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de hacer la declaración de impuestos",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice inscribirme en el curso de cocina",
+        "intent": 6
+    },
+    {
+        "text": "Borrar tarea comprar regalos",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda confirmar la asistencia al evento",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas terminar el diseño del logo",
+        "intent": 6
+    },
+    {
+        "text": "Quitar de la agenda la tarea de inscribirme en el curso de cocina",
+        "intent": 6
+    },
+    {
+        "text": "Borrar tarea ir a la reunión de padres",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda planificar la salida con amigos",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea inscribirme en el curso de cocina",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de buscar información sobre inversión",
+        "intent": 6
+    },
+    {
+        "text": "No va a ser necesario realizar la tarea de comprar regalos, elimínala",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice terminar el diseño del logo",
+        "intent": 6
+    },
+    {
+        "text": "Borrar tarea organizar los documentos del proyecto",
+        "intent": 6
+    },
+    {
+        "text": "Cancelar la tarea de revisar los documentos legales",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de preparar el desayuno saludable",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas inscribirme en el maratón",
+        "intent": 6
+    },
+    {
+        "text": "Cancelar la tarea de meditar antes de dormir",
+        "intent": 6
+    },
+    {
+        "text": "No va a ser necesario realizar la tarea de llamar a mi hermano el domingo, elimínala",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea terminar el informe",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea asistir a la clase de yoga",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas reservar el hotel",
+        "intent": 6
+    },
+    {
+        "text": "Quitar de la agenda la tarea de enviar el correo pendiente",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de asistir a la clase de yoga",
+        "intent": 6
+    },
+    {
+        "text": "Borrar tarea hacer la declaración de impuestos",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda preparar la presentación",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas pagar la factura de la luz",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice comprar regalos",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de realizar la auditoría interna",
+        "intent": 6
+    },
+    {
+        "text": "Borra por favor reunión con el equipo",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea enviar el correo pendiente",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda completar el cuestionario",
+        "intent": 6
+    },
+    {
+        "text": "Quitar de la agenda la tarea de pagar la factura de la luz",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda hacer ejercicio mañana por la mañana",
+        "intent": 6
+    },
+    {
+        "text": "Borra por favor comprar regalos",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea enviar el correo pendiente",
+        "intent": 6
+    },
+    {
+        "text": "Quitar de la agenda la tarea de pagar la factura de la luz",
+        "intent": 6
+    },
+    {
+        "text": "No va a ser necesario realizar la tarea de completar el cuestionario, elimínala",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea hacer la tarea de programación",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda cita médica del lunes",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de hacer la evaluación del personal",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de completar el cuestionario",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea escribir en el diario",
+        "intent": 6
+    },
+    {
+        "text": "Cancelar la tarea de terminar el trabajo de investigación",
+        "intent": 6
+    },
+    {
+        "text": "Borra por favor realizar la auditoría interna",
+        "intent": 6
+    },
+    {
+        "text": "No va a ser necesario realizar la tarea de hacer la declaración de impuestos, elimínala",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea terminar el informe",
+        "intent": 6
+    },
+    {
+        "text": "Borrar tarea revisar la planificación semanal",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice planificar la salida con amigos",
+        "intent": 6
+    },
+    {
+        "text": "Borrar tarea reunión con el equipo",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda asistir al webinar",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea leer el libro nuevo",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea comprar entradas para el concierto",
+        "intent": 6
+    },
+    {
+        "text": "Quitar de la agenda la tarea de preparar el desayuno saludable",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea editar el video de la presentación",
+        "intent": 6
+    },
+    {
+        "text": "Cancelar la tarea de ir a comprar al supermercado",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas asistir a la clase de yoga",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de ir a comprar al supermercado",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea completar el cuestionario",
+        "intent": 6
+    },
+    {
+        "text": "Borrar tarea meditar antes de dormir",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea realizar la auditoría interna",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea hacer ejercicio mañana por la mañana",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de leer el libro nuevo",
+        "intent": 6
+    },
+    {
+        "text": "Cancelar la tarea de pagar la factura de la luz",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas revisar la planificación semanal",
+        "intent": 6
+    },
+    {
+        "text": "Quitar de la agenda la tarea de ir a comprar al supermercado",
+        "intent": 6
+    },
+    {
+        "text": "Cancelar la tarea de completar el cuestionario",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea inscribirme en el curso de cocina",
+        "intent": 6
+    },
+    {
+        "text": "Cancelar la tarea de hacer la compra semanal",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas terminar el informe",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de completar el cuestionario",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice comprar regalos",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice comprar entradas para el concierto",
+        "intent": 6
+    },
+    {
+        "text": "Borra por favor comprar regalos",
+        "intent": 6
+    },
+    {
+        "text": "Borra por favor asistir a la clase de yoga",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea meditar antes de dormir",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea realizar la auditoría interna",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de inscribirme en el maratón",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice revisar la planificación semanal",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea planificar la salida con amigos",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice reunión con el equipo",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas leer el libro nuevo",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de terminar el informe",
+        "intent": 6
+    },
+    {
+        "text": "Borrar tarea editar el video de la presentación",
+        "intent": 6
+    },
+    {
+        "text": "Quitar de la agenda la tarea de revisión del coche",
+        "intent": 6
+    },
+    {
+        "text": "Cancelar la tarea de cita médica del lunes",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda inscribirme en el curso de cocina",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda pagar la factura de la luz",
+        "intent": 6
+    },
+    {
+        "text": "No va a ser necesario realizar la tarea de asistir a la clase de yoga, elimínala",
+        "intent": 6
+    },
+    {
+        "text": "Quitar de la agenda la tarea de planear el viaje de vacaciones",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas preparar el desayuno saludable",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de escribir en el diario",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda revisar los informes financieros",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda realizar la auditoría interna",
+        "intent": 6
+    },
+    {
+        "text": "Quitar de la agenda la tarea de hacer la evaluación del personal",
+        "intent": 6
+    },
+    {
+        "text": "Borrar tarea comprar entradas para el concierto",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice realizar la auditoría interna",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice cita médica del lunes",
+        "intent": 6
+    },
+    {
+        "text": "Cancelar la tarea de hacer una pausa para descansar",
+        "intent": 6
+    },
+    {
+        "text": "Cancelar la tarea de llamar a mi hermano el domingo",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de reunión con el equipo",
+        "intent": 6
+    },
+    {
+        "text": "Cancelar la tarea de ir a la reunión de padres",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea hacer la declaración de impuestos",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de ver la serie nueva",
+        "intent": 6
+    },
+    {
+        "text": "Quitar de la agenda la tarea de hacer una videollamada con el cliente",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice reunión con el equipo",
+        "intent": 6
+    },
+    {
+        "text": "Borra por favor cita médica del lunes",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de inscribirme en el curso de cocina",
+        "intent": 6
+    },
+    {
+        "text": "Quitar de la agenda la tarea de hacer la compra semanal",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de hacer la tarea de programación",
+        "intent": 6
+    },
+    {
+        "text": "Quitar de la agenda la tarea de llamar a mi hermano el domingo",
+        "intent": 6
+    },
+    {
+        "text": "Borrar tarea hacer una videollamada con el cliente",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice hacer la declaración de impuestos",
+        "intent": 6
+    },
+    {
+        "text": "Quitar de la agenda la tarea de reservar el hotel",
+        "intent": 6
+    },
+    {
+        "text": "Borra por favor ir al dentista",
+        "intent": 6
+    },
+    {
+        "text": "Borrar tarea asistir a la clase de yoga",
+        "intent": 6
+    },
+    {
+        "text": "Borra por favor cita médica del lunes",
+        "intent": 6
+    },
+    {
+        "text": "No va a ser necesario realizar la tarea de reunión con el equipo, elimínala",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda revisar la planificación semanal",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice pagar la suscripción del gimnasio",
+        "intent": 6
+    },
+    {
+        "text": "Cancelar la tarea de pagar la suscripción del gimnasio",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda meditar antes de dormir",
+        "intent": 6
+    },
+    {
+        "text": "Quitar de la agenda la tarea de revisión del coche",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de asistir al webinar",
+        "intent": 6
+    },
+    {
+        "text": "No va a ser necesario realizar la tarea de comprar regalos, elimínala",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea asistir a la clase de yoga",
+        "intent": 6
+    },
+    {
+        "text": "No va a ser necesario realizar la tarea de organizar el armario, elimínala",
+        "intent": 6
+    },
+    {
+        "text": "No va a ser necesario realizar la tarea de preparar el desayuno saludable, elimínala",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas ver la serie nueva",
+        "intent": 6
+    },
+    {
+        "text": "Borra por favor revisar la planificación semanal",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de organizar el armario",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas confirmar la asistencia al evento",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas hacer ejercicio mañana por la mañana",
+        "intent": 6
+    },
+    {
+        "text": "Quitar de la agenda la tarea de hacer el presupuesto mensual",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice completar el cuestionario",
+        "intent": 6
+    },
+    {
+        "text": "Elimina la tarea que dice inscribirme en el maratón",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda realizar la auditoría interna",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de revisión del coche",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas hacer ejercicio mañana por la mañana",
+        "intent": 6
+    },
+    {
+        "text": "No va a ser necesario realizar la tarea de reservar el hotel, elimínala",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea revisar los documentos legales",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda comprar regalos",
+        "intent": 6
+    },
+    {
+        "text": "No va a ser necesario realizar la tarea de inscribirme en el maratón, elimínala",
+        "intent": 6
+    },
+    {
+        "text": "Cancelar la tarea de planificar la salida con amigos",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea terminar el diseño del logo",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea ir al dentista",
+        "intent": 6
+    },
+    {
+        "text": "No va a ser necesario realizar la tarea de revisar los informes financieros, elimínala",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda confirmar la asistencia al evento",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de actualizar el software del ordenador",
+        "intent": 6
+    },
+    {
+        "text": "Quita de mis pendientes la tarea de cita médica del lunes",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda actualizar el software del ordenador",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas limpiar el coche",
+        "intent": 6
+    },
+    {
+        "text": "Eliminar tarea terminar el diseño del logo",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda planear el viaje de vacaciones",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas terminar el informe",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda preparar el desayuno saludable",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas confirmar la asistencia al evento",
+        "intent": 6
+    },
+    {
+        "text": "Borrar tarea pagar la suscripción del gimnasio",
+        "intent": 6
+    },
+    {
+        "text": "No va a ser necesario realizar la tarea de hacer la declaración de impuestos, elimínala",
+        "intent": 6
+    },
+    {
+        "text": "Suprimir de mi lista de tareas ver la serie nueva",
+        "intent": 6
+    },
+    {
+        "text": "No va a ser necesario realizar la tarea de asistir a la clase de yoga, elimínala",
+        "intent": 6
+    },
+    {
+        "text": "Borrar tarea leer el libro nuevo",
+        "intent": 6
+    },
+    {
+        "text": "Cancelar la tarea de enviar el correo pendiente",
+        "intent": 6
+    },
+    {
+        "text": "Cancelar la tarea de hacer una videollamada con el cliente",
+        "intent": 6
+    },
+    {
+        "text": "Ya no quiero tener en mi agenda hacer el presupuesto mensual",
+        "intent": 6
+    }
+
+
+]
