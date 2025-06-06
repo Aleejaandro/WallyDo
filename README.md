@@ -59,9 +59,9 @@ readme: |
      ```
 
   3. Configura los entornos virtuales:
-     - Para el backend:  
+     - Para el backend, en la raiz del proyecto:  
        ```bash
-       cd backend/
+       cd WallyDo/
        pip install -r requirements.txt
        ```
 
