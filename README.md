@@ -1,4 +1,5 @@
-readme: |
+  ![WallyDo](WallyDoApp/src/assets//LOGO_NegroAzul.png)
+  
   # 🧠 WallyDo – Tu asistente personal inteligente
 
   **WallyDo** es una app de organización personal impulsada por IA conversacional. Entiende lo que dices, convierte tus frases en tareas, te organiza el día y te ayuda a construir buenos hábitos. Todo desde una interfaz intuitiva por texto o voz.
