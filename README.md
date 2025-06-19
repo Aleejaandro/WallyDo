@@ -29,7 +29,7 @@
 
   | Vista principal | Interacción | Calendario |
   |-----------------|-------------|--------------------|
-  | ![](WallyDoApp/src/assets//vistaprincipal.png) | ![](WallyDoApp/src/assets//interaccion.png) | ![](WallyDoApp/src/assets//Wallendar.png) |
+  | ![](WallyDoApp/src/assets//vistaprincipal.jpg) | ![](WallyDoApp/src/assets//interaccion.jpg) | ![](WallyDoApp/src/assets//Wallendar.png) |
 
   ---
 
