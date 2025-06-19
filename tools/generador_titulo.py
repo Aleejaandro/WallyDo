@@ -14,6 +14,7 @@ def generar_titulo_resumen(frase_limpia):
     Convierte esta frase del usuario en un título breve y claro, sin eliminar articulos necesarios, ideal para mostrar como tarea o recordatorio en una app personal. 
     Usa un verbo en infinitivo al principio (como: Llamar, Ir, Comprar, etc.). 
     Elimina expresiones como "tengo que", "debo", "voy a", pero mantén el contexto completo (lugares, destinatarios, objetos) para que no se pierda información clave.
+    Elimina indicaciones temporales ni expresiones horarias.
     Frase: "{frase_limpia}"
     Título:
     """
@@ -23,7 +24,7 @@ def generar_titulo_resumen(frase_limpia):
             model="gpt-3.5-turbo",
             temperature=0.3,
             messages=[
-                {"role": "system", "content": "Eres un asistente que convierte frases de usuario en títulos breves de tareas. Mantén naturalidad y claridad. Incluye artículos como 'el', 'la', 'del' si ayudan a que suene mejor. No acortes en exceso si se pierde contexto útil."},
+                {"role": "system", "content": "Eres un asistente que convierte frases de usuario en títulos breves de tareas. Mantén naturalidad y claridad. Incluye artículos como 'el', 'la', 'del' si ayudan a que suene mejor. No acortes en exceso si se pierde contexto útil. Y no añadas indicaciones temporales ni expresiones horarias"},
                 {"role": "user", "content": prompt}
             ]
         )

@@ -87,7 +87,7 @@ const TareasScreen = ({ navigation }: any) => {
         fecha: '2025-06-13',
         hora: '09:30',
         categoria: 'Trabajo',
-        estado: 'Completada',
+        estado: 'En curso',
       },
       {
         id: '5',
@@ -119,7 +119,7 @@ const TareasScreen = ({ navigation }: any) => {
         fecha: '2025-06-24',
         hora: '16:45',
         categoria: 'Salud',
-        estado: 'Completada',
+        estado: 'Sin empezar',
       },
       {
         id: '9',

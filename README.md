@@ -27,9 +27,9 @@
 
   ## 📷 Capturas de pantalla
 
-  | Vista principal | Interacción | Feed motivacional |
+  | Vista principal | Interacción | Calendario |
   |-----------------|-------------|--------------------|
-  | ![](./assets/screenshots/home.png) | ![](./assets/screenshots/chat.png) | ![](./assets/screenshots/feed.png) |
+  | ![](WallyDoApp/src/assets//vistaprincipal.png) | ![](WallyDoApp/src/assets//interaccion.png) | ![](WallyDoApp/src/assets//Wallendar.png) |
 
   ---
 
