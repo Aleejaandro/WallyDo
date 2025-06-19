@@ -27,9 +27,18 @@
 
   ## 📷 Capturas de pantalla
 
-  | Vista principal | Interacción | Calendario |
-  |-----------------|-------------|--------------------|
-  | ![](WallyDoApp/src/assets//vistaprincipal.jpg) | ![](WallyDoApp/src/assets//interaccion.jpg) | ![](WallyDoApp/src/assets//Wallendar.png) |
+   <table>
+   <tr>
+      <th>Vista principal</th>
+      <th>Interacción</th>
+      <th>Calendario</th>
+   </tr>
+   <tr>
+      <td><img src="WallyDoApp/src/assets/vistaprincipal.jpg" width="250"/></td>
+      <td><img src="WallyDoApp/src/assets/interaccion.jpg" width="250"/></td>
+      <td><img src="WallyDoApp/src/assets/Wallendar.png" width="250"/></td>
+   </tr>
+   </table>
 
   ---
 
